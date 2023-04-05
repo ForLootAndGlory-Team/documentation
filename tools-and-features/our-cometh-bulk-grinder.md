@@ -6,7 +6,7 @@ description: >-
 
 # Our Cometh Bulk Grinder
 
-Here you will be able to choose the cards and the quantity of cards you want to grind, but for this you will need to have a minimum of FLAG in your wallet ([Buying FLAG](../for-loot-and-glory/buying-flag.md)) and approve the token first.
+Here you will be able to choose the cards and the quantity of cards you want to grind, but for this you will need to have a minimum of FLAG in your wallet ([Buying FLAG](../)) and approve the token first.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ Please find below the details of the **FLAG request fees** according to your rol
 
 * for <mark style="color:green;">Fresh-water sailors</mark> : 0.06 FLAG per card
 * for <mark style="color:blue;">Looters</mark> : 0.03 FLAG per card
-* for <mark style="color:purple;">Fleet commanders</mark> : 0.015 FLAG per card&#x20;
+* for <mark style="color:purple;">Fleet commanders</mark> : 0.015 FLAG per card
 
 Then just click approve NFT and confirm the transaction to receive the resources of the grind in your wallet
 

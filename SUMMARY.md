@@ -2,10 +2,7 @@
 
 ## 🏴☠ For Loot And Glory
 
-* [The Guild](README.md)
-* [The Tokenomic](for-loot-and-glory/readme-1.md)
-* [The Memberships](for-loot-and-glory/membership.md)
-* [Buying FLAG](for-loot-and-glory/buying-flag.md)
+* [Buying FLAG](README.md)
 * [Liquidity Mining](for-loot-and-glory/liquidity-mining.md)
 
 ## ⚓ Tools & features
@@ -32,4 +29,4 @@
 ## Updates & Audit
 
 * [Staking](updates-and-audit/staking.md)
-* [Token Migration V1 to V2 ](updates-and-audit/migration-v1-to-v2-usdflag-token.md)
+* [Token Migration V1 to V2](updates-and-audit/migration-v1-to-v2-usdflag-token.md)
