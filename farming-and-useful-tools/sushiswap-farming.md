@@ -1,2 +1,0 @@
-# Sushiswap Farming
-

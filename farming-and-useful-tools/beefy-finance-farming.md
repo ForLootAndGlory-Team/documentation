@@ -1,2 +1,0 @@
-# Beefy Finance Farming
-
