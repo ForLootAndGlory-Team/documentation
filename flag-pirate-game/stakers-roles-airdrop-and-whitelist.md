@@ -1,6 +1,6 @@
 # Stakers, Roles, Airdrop & Whitelist
 
-### <mark style="color:red;">WARNING :</mark> The following is the base line and could change before game deployment. We wanted to what will approximatively be the stakers advantages and rewards. Some small changes could therefore occurs if needed or simply stay just like that.&#x20;
+### <mark style="color:red;">WARNING :</mark> The following is the base line and could change before game deployment. We wanted to share with you what will approximatively be the stakers advantages and rewards. Some small changes could therefore occurs if needed or simply stay just like that.&#x20;
 
 
 
@@ -70,7 +70,7 @@ Non-stakers. No access beside welcome chan\
 Our OGs members who first arrived when we were only a guild made of asset's owners investing together in games. Cannot be added to new members. Closed role.\
 \
 **Pirates**\
-Special role for those who wants to participate to our mini games. Rumble, Gartic, Treasure quest within discord. Access starts at the Looter role. You can claim the role directly within discord in the "role" chan.\
+Special role for those who wants to participate to our mini games. Rumble, Gartic, Treasure quest within discord. Access starts at the Looter role. You can claim the role directly within discord in the "role" chan. This role is deactivated for now. Will be available soon.\
 \
 **NFT Alpha**\
 For the NFT degens. Not handled by the team but the members who wish to share their findings within the NFT space. It is a closed chan reserved to some OGs. \
