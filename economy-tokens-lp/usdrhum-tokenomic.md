@@ -12,3 +12,6 @@
 * The daily emission per Tavern is : \[TBA]
 * The total emission per day will be regulated by a halving similar to the one on Bitcoin. Each time the total circulating supply goes above 1.000.000, a halving occurs. If it goes below, the halving is automatically cancelled.&#x20;
 * There will be a RHUM/MATIC Pool. The liquidity will be automatically provided by the funds raised through the asset's mint. This pool will have a double use case. It will serve as the "end-game treasure chest"  and as a regular pool, allowing people to buy and sell $RHUM.\
+  \
+  \
+  \*this is the base but few changes could occur before mainnet launch.&#x20;
