@@ -17,7 +17,7 @@
   * [The Tavern](flag-pirate-game/characters-buildings-assets/the-tavern.md)
   * [The Forge](flag-pirate-game/characters-buildings-assets/the-forge.md)
   * [The Brothel](flag-pirate-game/characters-buildings-assets/the-brothel.md)
-  * [Treasure Hunts & Maps](flag-pirate-game/characters-buildings-assets/treasure-hunts-and-maps.md)
+  * [Treasure Hunts & Maps](flag-pirate-game/characters-buildings-assets/treasure-maps.md)
 * [Economy, Burn & Earn system](flag-pirate-game/economy-burn-and-earn-system/README.md)
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
   * [Burn mechanism](flag-pirate-game/economy-burn-and-earn-system/burn-mechanism.md)

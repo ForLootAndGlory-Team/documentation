@@ -2,7 +2,7 @@
 description: Wen lambo ?
 ---
 
-# Treasure Maps
+# Treasure Hunts & Maps
 
 <figure><img src="../../.gitbook/assets/all maps.png" alt=""><figcaption></figcaption></figure>
 
