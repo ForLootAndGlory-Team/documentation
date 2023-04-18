@@ -1,3 +1,0 @@
-# Treasure Hunt
-
-\[in progress...]
