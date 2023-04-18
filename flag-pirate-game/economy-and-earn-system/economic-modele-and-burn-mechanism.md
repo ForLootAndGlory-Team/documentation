@@ -1,2 +1,0 @@
-# Economic modele & burn mechanism
-

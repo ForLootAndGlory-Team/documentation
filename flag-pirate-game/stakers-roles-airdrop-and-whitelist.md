@@ -80,19 +80,20 @@ For the NFT degens. Not handled by the team but the members who wish to share th
 ## TEAM
 
 \
-**Emperors of the sea**\
+**Emperors of the sea** \
 Founders (devs)\
-Mint first (pre-sale)\
-2 free taverns per emperor (as we do not take money from the building mints) - we will pay for other buildings we might want like anyone else. \
+Pre-sale access \
+1 free tavern per emperor (total = 3)\
 5x secret airdrops (once the common treasure hunt is live)\
 \
 **Captain Crew**\
 Mod Boss \
-Mint first (pre-sale) \
-4x extra Pirate NFT on top of their 1 per 100 token staked\
-5x secret airdrops (once the common treasure hunt is live)\
+Pre-sale access\
+3x extra Pirate NFT on top of their 1 per 100 token staked\
+4x secret airdrops (once the common treasure hunt is live)\
 \
 **Quartermaster Crew**\
-Mods - Allowed to participate to the giveaways as they are benevolently working with us \
+Mods \
+Pre-sale access\
 2x extra Pirate NFT on top of their 1 per 100 token staked\
 3x secret airdrops (once the common treasure hunt is live)

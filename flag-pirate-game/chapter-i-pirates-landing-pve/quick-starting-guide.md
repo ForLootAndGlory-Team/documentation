@@ -21,7 +21,7 @@ _- Mumbai testnet token_ [_https://faucet.polygon.technology/_](https://faucet.p
 9. You will need to put a character inside the forge and the brothel to make it work. The characters will also need $rhum to work properly.&#x20;
 10. Using the forge will give you gears / using the brothel will give you bonuses for the hunts.&#x20;
 
-From here you should be able to navigate within the dapps and able to play. If you need more informations, please ask us in discord on the testnet chans.&#x20;
+There is more to do that you can easily discover wandering around the game. From here you should be able to navigate within the dapps and able to play. If you need more informations, please ask us in discord on the testnet chans.&#x20;
 
 ## MAINNET
 
