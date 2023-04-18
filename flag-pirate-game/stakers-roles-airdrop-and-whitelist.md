@@ -12,7 +12,7 @@ Depending on your stake, you can access different chans within discord and have 
 \+10000 FLAG staked\
 $RHUM reduction cost within the game\
 Access to the mini game chan\
-1 Pirate NFT for each 100 staked FLAG - No conditions\
+1 Pirate NFT for each 100 staked FLAG\
 20 secret asset airdrops (once the common treasure hunt is live)\
 Whitelisted to mint first (pre-sale) \
 Royalties\
