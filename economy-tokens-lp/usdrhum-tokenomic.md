@@ -6,7 +6,7 @@
 
 * $RHUM will be the ingame utility token within the FLAG game.&#x20;
 * There is no total supply. It is produced in the TAVERN building.&#x20;
-* No pre-mint
+* No "individual" pre-mint but we might use a pre-mint to fill the $rhum pool to make it liquid enough from day 1
 * No presale / IDO / ICO etc...&#x20;
 * No MaRkEtInG / AdVisOrS or team allocations
 * The daily emission per Tavern is : \[TBA]
