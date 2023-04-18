@@ -15,7 +15,7 @@ Do the swaps you need on KyberSwap, I shall not need to explain this again here 
 
 **Useful info here** : you can see live the ratio FLAG/MATIC. Always interesting to know the ratio when you enter the pool, since it allows you to quickly estimate the tokens you'll get when you decide to leave the pool (don't worry, there are tools for that if you don't wanna bother ^^).
 
-![](<../.gitbook/assets/image (1) (3).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 Once you've set the amounts related to each token, you can approve the LP token and confirm adding liquidity. As soon as the tx is validated, you should not see the tokens in your wallet anymore, but the LP tokens instead (for that you'll probably need to dig on [polygonscan](https://polygonscan.com/) with your wallet ID, since the LP token won't be imported by default in your non-custodial wallet). Congratulations, you are now a FLAG liquidity provider !
 
