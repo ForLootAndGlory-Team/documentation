@@ -19,6 +19,7 @@ description: Your 3 next favorite mfers
 \- Get them some bonuses for the hunt using the Brothel\
 \- Assign them to a building (carreers)\
 \- The character having the best stats is always on top of your inventory\
+\- Delegation to avoid clicking numerous times on your hardware or to rent it out\
 \
 **In details :** \
 ERC721 - Polygon. These are your Pirates. They can be minted using the tickets your PIRATE NFT gives you once a month. 1 Ticket = 3 mintable characters for free.\
