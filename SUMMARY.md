@@ -10,6 +10,7 @@
   * [EXP & Levels](flag-pirate-game/chapter-i-pirates-landing-pve/exp-and-levels.md)
 * [Chapter II - Pirate's Rampage \[PVP\]](flag-pirate-game/chapter-ii-pirates-rampage-pvp/README.md)
   * [The Shipyard](flag-pirate-game/chapter-ii-pirates-rampage-pvp/the-shipyard.md)
+  * [The Ships](flag-pirate-game/chapter-ii-pirates-rampage-pvp/the-ships.md)
   * [SECRET ASSET](flag-pirate-game/chapter-ii-pirates-rampage-pvp/secret-asset.md)
 * [Characters, Buildings, Assets](flag-pirate-game/characters-buildings-assets/README.md)
   * [FLAG Pirate NFT](flag-pirate-game/characters-buildings-assets/flag-pirate-nft.md)
