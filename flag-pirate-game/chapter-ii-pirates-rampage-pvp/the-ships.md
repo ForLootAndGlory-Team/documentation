@@ -1,7 +1,9 @@
 # The Ships
 
-<figure><img src="../../.gitbook/assets/SHIP.png" alt=""><figcaption><p>Caravel ship, Schooner ship, Square Rig ship </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SHIPS.png" alt=""><figcaption><p>Caravel ship, Schooner ship, Square rig ship</p></figcaption></figure>
 
+\
+\
 **In Brief :** \
 \[soon]\
 \
