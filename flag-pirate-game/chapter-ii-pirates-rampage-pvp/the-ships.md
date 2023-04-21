@@ -1,6 +1,6 @@
-# The Shipyard
+# The Ships
 
-<figure><img src="../../.gitbook/assets/SHIP.png" alt=""><figcaption><p>common, rare and legendary ship on a PVP mission</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SHIP.png" alt=""><figcaption><p>Caravel ship, Schooner ship, Square Rig ship </p></figcaption></figure>
 
 **In Brief :** \
 \[soon]\
