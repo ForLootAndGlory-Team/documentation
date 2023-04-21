@@ -2,11 +2,11 @@
 
 <figure><img src="../../.gitbook/assets/SHIP.png" alt=""><figcaption><p>common, rare and legendary ship on a PVP mission</p></figcaption></figure>
 
-In Brief : \
+**In Brief :** \
 \[soon]\
 \
 \
 \
 \
-In details : \
+**In details :** \
 \[soon]
