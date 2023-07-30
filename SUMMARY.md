@@ -47,4 +47,3 @@
 * [Request a scholarship](scholarship/request-a-scholarship.md)
 * [Delegate a scholarship](scholarship/delegate-a-scholarship.md)
 * [Dashboard](scholarship/dashboard.md)
-* [Our Cometh Bulk Grinder](scholarship/our-cometh-bulk-grinder.md)
