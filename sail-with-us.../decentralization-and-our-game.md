@@ -10,4 +10,3 @@ The different money movements are also all managed by smart contract without a p
 \
    To make it simple, the team has no control after deployment of the game apart from the technical aspect of the operations (but these access will also be destroyed after confirmation that no bug is left unfixed), has no access to the funds generated and if all the team had to disappear, the game was designed so that it can continue to operate both technically and financially in a completely autonomous manner and without the slightest human intervention. \
 \
-The dangerous centralized approach things tends to take by the time made us immediately think about building the project as decentralized as possible. We also understand the risk of PoS. And if Polygon start to take a too centralized path, we already have a back up plan to migrate it all somewhere else.   Game & tokens included. \
