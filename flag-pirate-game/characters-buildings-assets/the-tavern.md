@@ -29,7 +29,7 @@ Above your Tavern, you can click "Bottling" to obtain your bottles (to use or se
 \
 _\*The amount may sound expensive but it regulates the_ $BARRELS _production and raise consequently the endgame rewards. The money goes straight to the end-game and so, goes back to the winners (PVP Chapter II)._   \
 \
-See also : [usdbarrels-tokenomic.md](../../economy-tokens-lp/usdbarrels-tokenomic.md "mention")  and [earn-and-endgame.md](../economy-burn-and-earn-system/earn-and-endgame.md "mention")
+See also : [usdrhum-tokenomic.md](../../economy-tokens-lp/usdrhum-tokenomic.md "mention")  and [earn-and-endgame.md](../economy-burn-and-earn-system/earn-and-endgame.md "mention")
 
 
 
