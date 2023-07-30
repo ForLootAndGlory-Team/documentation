@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/flag rhum (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/barrel.png" alt="" width="188"><figcaption></figcaption></figure>
 
 * $BARRELS will be the ingame utility token within the FLAG game.&#x20;
 * There is no total supply

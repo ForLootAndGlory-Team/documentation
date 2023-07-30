@@ -39,6 +39,6 @@ See also : [usdrhum-tokenomic.md](../../economy-tokens-lp/usdrhum-tokenomic.md "
 
  
 
-<figure><img src="../../.gitbook/assets/barrel.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/barrel (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
