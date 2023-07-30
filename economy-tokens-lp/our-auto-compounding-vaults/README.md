@@ -1,5 +1,7 @@
 # Our Auto compounding vaults
 
+The vault link : [https://app.forlootandglory.io/#/vault](https://app.forlootandglory.io/#/vault)\
+\
 **The vault system is a feature that allows users to compound their rewards and earn additional gains through high-yield investments.**&#x20;
 
 Basically, it adds the LP rewards automatically without the need to claim, swap, create new LP tokens and add it. All of this is made automatically once you add your first LP into the pool. \
