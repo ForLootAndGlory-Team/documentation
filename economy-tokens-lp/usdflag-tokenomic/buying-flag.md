@@ -1,6 +1,12 @@
 # Buying FLAG
 
-## How to buy FLAG and where
+**Contract Address :** 0x9111D6446Ac5b88A84cf06425c6286658368542F\
+\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\
+\
+\
+How to buy FLAG and where
 
 ### 1st step : Use Polygon network
 

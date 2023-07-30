@@ -4,13 +4,13 @@
 
 
 
-Depending on your stake, you can access different chans within discord and have access to special prices and rewards as a staker. Here a all roles available. Note that the first level role was recently created to give access to the free Pirate NFT owners and tiny stakers with less than 100 FLAG. The full server access always was and will be minimum 100 FLAG staked. Read carefully. \
+Depending on your stake, you can access different chans within discord and have access to special prices and rewards as a staker. Here are all roles available. Note that the first level role was recently created to give access to the free Pirate NFT owners and super small stakers with less than 100 FLAG. The full server access always was and will be minimum 100 FLAG staked. Read carefully. \
 \
 **M E M B E R S**\
 \
 **Admiral**\
 \+10000 FLAG staked\
-$RHUM reduction cost within the game\
+Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG\
 20 secret asset airdrops (once the common treasure hunt is live)\
@@ -19,7 +19,7 @@ Royalties\
 \
 **Sailing Master**\
 \+5000 FLAG staked and/or Chapter I & II (all buildings) owner\
-$RHUM reduction cost within the game\
+Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 10 secret asset airdrops (once the common treasure hunt is live)\
@@ -28,7 +28,7 @@ Royalties\
 \
 **Corsair**\
 \+1000 FLAG staked and/or +3 buildings owner\
-$RHUM reduction cost within the game\
+Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
@@ -37,7 +37,7 @@ Royalties\
 \
 **Smuggler**\
 \+500 FLAG staked and/or +2 buildings owner\
-$RHUM reduction cost within the game\
+Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
@@ -46,7 +46,7 @@ Royalties\
 \
 **Looter**\
 \+100 FLAG staked and/or +1 building owner\
-$RHUM reduction cost within the game\
+Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint) \
@@ -70,10 +70,7 @@ Non-stakers. No access beside welcome chan\
 Our OGs members who first arrived when we were only a guild made of asset's owners investing together in games. Cannot be added to new members. Closed role.\
 \
 **Pirates**\
-Special role for those who wants to participate to our mini games. Rumble, Gartic, Treasure quest within discord. Access starts at the Looter role. You can claim the role directly within discord in the "role" chan. This role is deactivated for now. Will be available soon.\
-\
-**NFT Alpha**\
-For the NFT degens. Not handled by the team but the members who wish to share their findings within the NFT space. It is a closed chan reserved to some OGs. \
+Special role for those who wants to participate to our mini games. Rumble, Gartic, Treasure quest within discord. Access starts at the Looter role. You can claim the role directly within discord in the "role" chan. This role is deactivated for now. Will be back soon.\
 \
 
 
@@ -81,7 +78,7 @@ For the NFT degens. Not handled by the team but the members who wish to share th
 
 \
 **Emperors of the sea** \
-Founders (devs)\
+Founders\
 Pre-sale access \
 1 free tavern per emperor (total = 3)\
 5x secret airdrops (once the common treasure hunt is live)\
@@ -89,11 +86,11 @@ Pre-sale access \
 **Captain Crew**\
 Mod Boss \
 Pre-sale access\
-3x extra Pirate NFT on top of their 1 per 100 token staked\
+3x extra Pirate NFTs \
 4x secret airdrops (once the common treasure hunt is live)\
 \
 **Quartermaster Crew**\
 Mods \
 Pre-sale access\
-2x extra Pirate NFT on top of their 1 per 100 token staked\
+2x extra Pirate NFTs \
 3x secret airdrops (once the common treasure hunt is live)

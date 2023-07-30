@@ -23,14 +23,14 @@
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
   * [Burn mechanism](flag-pirate-game/economy-burn-and-earn-system/burn-mechanism.md)
   * [Earn & Endgame](flag-pirate-game/economy-burn-and-earn-system/earn-and-endgame.md)
-* [Assets Prices & Mint Date](flag-pirate-game/assets-prices-and-mint-date.md)
+* [Assets, Prices & Mint Date](flag-pirate-game/assets-prices-and-mint-date.md)
 * [Stakers, Roles, Airdrop & Whitelist](flag-pirate-game/stakers-roles-airdrop-and-whitelist.md)
 
 ## 🏴☠ Economy - Tokens - LP
 
 * [$FLAG Tokenomic](economy-tokens-lp/usdflag-tokenomic/README.md)
   * [Buying FLAG](economy-tokens-lp/usdflag-tokenomic/buying-flag.md)
-* [$RHUM Tokenomic](economy-tokens-lp/usdrhum-tokenomic.md)
+* [$BARRELS Tokenomic](economy-tokens-lp/usdbarrels-tokenomic.md)
 * [Our Auto compounding vaults](economy-tokens-lp/our-auto-compounding-vaults/README.md)
   * [How to use the vault](economy-tokens-lp/our-auto-compounding-vaults/kyberswap.md)
 * [Liquidity Mining \[Noob Guide\]](economy-tokens-lp/liquidity-mining.md)

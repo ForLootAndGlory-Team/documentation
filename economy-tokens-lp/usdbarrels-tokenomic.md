@@ -1,11 +1,10 @@
-# $RHUM Tokenomic
+# $BARRELS Tokenomic
 
 
 
 <figure><img src="../.gitbook/assets/flag rhum (1).png" alt=""><figcaption></figcaption></figure>
 
-* $RHUM will be the ingame utility token within the FLAG game.&#x20;
-*
+* $BARRELS will be the ingame utility token within the FLAG game.&#x20;
 * There is no total supply. It is produced in the TAVERN building.&#x20;
 * No presale / IDO / ICO etc...&#x20;
 * No MaRkEtInG / AdVisOrS or team allocations

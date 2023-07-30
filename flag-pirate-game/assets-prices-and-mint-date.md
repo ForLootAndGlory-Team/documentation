@@ -1,4 +1,4 @@
-# Assets Prices & Mint Date
+# Assets, Prices & Mint Date
 
 ## ASSETS
 
@@ -28,7 +28,7 @@ Total : 250\
 Mint Date : TBA - After testnet phase\
 Whitelist : See [stakers-roles-airdrop-and-whitelist.md](stakers-roles-airdrop-and-whitelist.md "mention") - What will be left : FCFS \
 \
-**Secret Building (pvp) - ERC721 - Matic (Polygon)**\
+**Secret Building (PVP) - ERC721 - Matic (Polygon)**\
 Price : TBA\
 Total : 125\
 Mint Date : TBA\
@@ -41,7 +41,11 @@ Mint Date : TBA\
 Whitelist : See [stakers-roles-airdrop-and-whitelist.md](stakers-roles-airdrop-and-whitelist.md "mention") - What will be left : FCFS \
 \
 \
-_\*Tickets and Characters are mintable by owning a Flag Pirate NFT only._&#x20;
+_\*Tickets and Characters are mintable by owning a Flag Pirate NFT only._ \
+\
 
 
+### **NOT MINTABLE ASSETS**
 
+* $BARRELS - ERC20
+* Bottles of Rum (PVP/PVE) - ERC1155

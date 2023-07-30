@@ -9,11 +9,11 @@ _Note that the end-game won't be fully explained here as the Chapter II is not k
 \- Sell the characters you don't use \
 \- Sell the tickets you don't use\
 \- Sell the FLAG Pirate NFT you don't use\
-\- Sell the $RHUM you produce\
+\- Sell the Bottle of Rum obtained from $BARRELS \
 \- Sell the gears you don't use\
-\- Sell the treasure maps you don't use\
+\- Sell the Coins you don't use\
 \- Sell your building's services (Brothel / Forge / another one yet to be known for PVP)\
-\- If you are a FLAG staker, get a cut from the fees generated ingame\
+\- If you are a FLAG staker, get a nice cut from the fees generated ingame\
 &#x20;\
 \
 **ENDGAME**\
