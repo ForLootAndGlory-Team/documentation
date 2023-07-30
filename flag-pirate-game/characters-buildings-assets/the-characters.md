@@ -13,7 +13,7 @@ description: Your 3 next favorite mfers
 \- You can mint characters in -> Town -> Characters\
 \- Level them up to rare (lvl 30)\
 \- Level them up to legendary (lvl 70) \
-\- Give them drinks ($rhum) to be able to make some actions\
+\- Give them drinks ($Barrels of Rum) to be able to make some actions\
 \- Send them to treasure map hunts for EXP and maps\
 \- Get them some gears within the Forge to level up their stats and EXP\
 \- Get them some bonuses for the hunt using the Brothel\
