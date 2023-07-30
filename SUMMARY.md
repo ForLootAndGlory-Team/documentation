@@ -3,7 +3,7 @@
 ## 🏴☠ FLAG PIRATE GAME
 
 * [Introduction](README.md)
-* [Roadmap progress - 90%](flag-pirate-game/roadmap-progress-90.md)
+* [Roadmap progress - 90%](flag-pirate-game/roadmap-progress-70.md)
 * [Chapter I - Pirate's Landing \[PVE\]](<README (1).md>)
   * [PVE mode](flag-pirate-game/chapter-i-pirates-landing-pve/pve-mode.md)
   * [Quick starting guide](flag-pirate-game/chapter-i-pirates-landing-pve/quick-starting-guide.md)
@@ -18,7 +18,7 @@
   * [The Tavern](flag-pirate-game/characters-buildings-assets/the-tavern.md)
   * [The Forge](flag-pirate-game/characters-buildings-assets/the-forge.md)
   * [The Brothel](flag-pirate-game/characters-buildings-assets/the-brothel.md)
-  * [Treasure Hunts & Maps](flag-pirate-game/characters-buildings-assets/treasure-maps.md)
+  * [Treasure Hunts & Coins](flag-pirate-game/characters-buildings-assets/treasure-hunts-and-coins.md)
 * [Economy, Burn & Earn system](flag-pirate-game/economy-burn-and-earn-system/README.md)
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
   * [Burn mechanism](flag-pirate-game/economy-burn-and-earn-system/burn-mechanism.md)

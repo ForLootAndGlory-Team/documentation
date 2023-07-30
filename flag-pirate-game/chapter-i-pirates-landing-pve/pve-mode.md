@@ -6,13 +6,14 @@ The goal is to :&#x20;
 \- Level up your characters with EXP\
 \- Level up your Tavern\
 \- Get the best gears possible\
-\- Producing RHUM (if you own a tavern) \
-\- Going to the Hunt to bring back some treasure map + the EXP that comes with it\
+\- Producing $BARRELS (if you own a tavern) \
+\- Going to the Treasure Hunt to bring back some Coins + the EXP that comes with it\
 \
-Reach level 30 to access the rare maps\
-Reach level 70 to acces the legendary maps\
+It start with Copper Coins\
+Reach level 30 to access the Silver Coins\
+Reach level 70 to acces the Gold Coins\
 \
 Everything done during the PVE mode will be necessary for the Chapter II. \
-Legendary lvl / maps are a must for the end-game.\
+Legendary lvl / Gold Coins are a must for the end-game.\
 
 

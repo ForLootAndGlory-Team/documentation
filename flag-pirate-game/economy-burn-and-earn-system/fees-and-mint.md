@@ -2,9 +2,9 @@
 
 \
 **ASSETS MINT - Automatically managed by smart contracts**\
-80% of the mint from all buildings goes to the end-game chest (for the players/winners reaching the end-game) and 20% to the $RHUM/$MATIC pool (this percent can change  as we have few ideas on how the pool and the end-game vault will be managed). The team do not take a share from it.&#x20;
-
-The \[secret asset] will be airdropped as explained here [stakers-roles-airdrop-and-whitelist.md](../stakers-roles-airdrop-and-whitelist.md "mention") \
+91% of the mint from all buildings goes to the end-game chest (for the players/winners reaching the end-game) and 9% kept by the team to pay back some game's expenses.\
+\
+[stakers-roles-airdrop-and-whitelist.md](../stakers-roles-airdrop-and-whitelist.md "mention") \
 but members will also be able to get more by buying some during the mint. If some are sold during the building's mint, the money generated goes to the founders. It is a small item that is not indispensable to play the game, a small bonus that will apply to some assets under certain conditions.\
 
 
