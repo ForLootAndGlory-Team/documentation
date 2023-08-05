@@ -2,7 +2,7 @@
 
 \
 \
-**FLAG Pirate's Landing & FLAG Pirate's Rampage** is a _Pirate-themed strategic RPG web browser game powered by POLYGON. It will be playable on mobile soon after mainnet._ \
+**For Loot And Glory** is a _Pirate-themed strategic RPG web browser game powered by POLYGON. It will be playable on mobile soon after mainnet._ \
 _Our goal is to grow our already very strong and long term existing community while offering a fully decentralized game that doesn't rely on VCs funding or modele like "give me your money and I'll try to code you something to play with". We are doing - purposely - the exact opposite of every other games out there by offering access to our testnet and a free asset for people to get in. We want people to have fun, in-game as much as within the community as much as the opportunity to make money but with a twist. Grind-our-game-to-hell is not an option. On a side note, ror the RP lovers, there will be a full RP section within discord._&#x20;
 
 _Firstly, it's important to mention that, as p2e pionneers, we have carefully watched and noticed what made all p2e games fall into oblivion and kept the reasons on a list to elaborate ours and avoiding the same mistakes. These reasons were most of the time the same._\
