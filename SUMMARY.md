@@ -3,7 +3,7 @@
 ## 🏴☠ FLAG PIRATE GAME
 
 * [Introduction](README.md)
-* [Roadmap progress - 93%](flag-pirate-game/roadmap-progress-93.md)
+* [Roadmap progress - 93%](flag-pirate-game/roadmap-progress-70.md)
 * [Chapter I - Pirate's Landing \[PVE\]](<README (1).md>)
   * [PVE mode](flag-pirate-game/chapter-i-pirates-landing-pve/pve-mode.md)
   * [Quick starting guide](flag-pirate-game/chapter-i-pirates-landing-pve/quick-starting-guide.md)
@@ -26,7 +26,9 @@
 * [Economy, Burn & Earn system](flag-pirate-game/economy-burn-and-earn-system/README.md)
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
   * [Burn mechanism](flag-pirate-game/economy-burn-and-earn-system/burn-mechanism.md)
+  * [$BARRELS Tokenomic](flag-pirate-game/economy-burn-and-earn-system/usdbarrels-tokenomic.md)
   * [Earn & Endgame](flag-pirate-game/economy-burn-and-earn-system/earn-and-endgame.md)
+* [$FLAG token](flag-pirate-game/usdflag-token.md)
 * [Assets, Prices & Mint Date](flag-pirate-game/assets-prices-and-mint-date.md)
 * [Stakers, Roles, Airdrop & Whitelist](flag-pirate-game/stakers-roles-airdrop-and-whitelist.md)
 
