@@ -1,19 +1,16 @@
 # PVE mode
 
 **The Chapter I - Pirate's Landing is the PVE mode.** \
-The goal is to :&#x20;
+The objective:
 
-\- Level up your characters with EXP\
-\- Level up your Tavern\
-\- Get the best gears possible\
-\- Producing $BARRELS (if you own a tavern) \
-\- Going to the Treasure Hunt to bring back some Coins + the EXP that comes with it\
-\
-It start with Copper Coins\
-Reach level 30 to access the Silver Coins\
-Reach level 70 to acces the Gold Coins\
-\
-Everything done during the PVE mode will be necessary for the Chapter II. \
-Legendary lvl / Gold Coins are a must for the end-game.\
+* Enhance your characters' levels through experience points (EXP).
+* Level-up your Tavern.
+* Acquire the most exceptional gears available.
+* Engage in the production of $BARRELS (if you own a tavern).
+* Embark on Treasure Hunts to gather Coins and the accompanying EXP.
+
+The progression begins with Copper Coins. Upon reaching level 30, you can access Silver Coins. Upon reaching level 70, you gain access to Gold Coins.
+
+All actions undertaken in the PVE mode will be essential for Chapter II. Achieving the Legendary level and obtaining Gold Coins are imperative for the end-game experience.\
 
 

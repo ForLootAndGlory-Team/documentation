@@ -2,10 +2,10 @@
 
 **Chapter II - Pirate's Rampage**
 
-In the PvP (Player versus Player) mode, players engage in thrilling naval battles, competing for treasures and glory on the open seas. Each voyage lasts for 7 days, and to participate, a player must meet specific requirements:
+In the PvP (Player versus Player) mode, players immerse themselves in exhilarating naval battles, vying for treasures and renown on the expansive waters. Each voyage spans 7 days, and to take part, players need to fulfill particular prerequisites:
 
-1. Have a ship equipped with a Captain - A player at level 100, fully equipped with legendary gear.
-2. Possess bottles of rum - Essential for enhancing the character's performance during battles.
+* Own a ship outfitted with a Captain: A player at level 100, completely equipped with legendary gear.
+* Hold bottles of rum: These are vital for enhancing a character's performance during battles.
 
 **Battle Mechanics - The Odyssey**
 

@@ -24,11 +24,11 @@
   * [The Ships](flag-pirate-game/characters-buildings-assets/the-ships.md)
   * [Treasure Hunts & Coins](flag-pirate-game/characters-buildings-assets/treasure-hunts-and-coins.md)
 * [Economy, Burn & Earn system](flag-pirate-game/economy-burn-and-earn-system/README.md)
+  * [$FLAG token](flag-pirate-game/economy-burn-and-earn-system/usdflag-token.md)
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
   * [Burn mechanism](flag-pirate-game/economy-burn-and-earn-system/burn-mechanism.md)
   * [$BARRELS Tokenomic](flag-pirate-game/economy-burn-and-earn-system/usdbarrels-tokenomic.md)
   * [Earn & Endgame](flag-pirate-game/economy-burn-and-earn-system/earn-and-endgame.md)
-* [$FLAG token](flag-pirate-game/usdflag-token.md)
 * [Assets, Prices & Mint Date](flag-pirate-game/assets-prices-and-mint-date.md)
 * [Stakers, Roles, Airdrop & Whitelist](flag-pirate-game/stakers-roles-airdrop-and-whitelist.md)
 

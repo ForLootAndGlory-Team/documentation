@@ -1,7 +1,6 @@
 # Roadmap progress - 93%
 
-We prefer not giving a precise date for when the mainnet will be live. We can only update regularly and give an approximate percentage to represent our progress. \
-As of August 9th we are at 93%
+We would rather not provide a specific date for the mainnet's launch. Our approach is to provide regular updates and offer an approximate percentage to indicate our progress. As of August 9th, we have reached 93%.
 
 \
 ° ~~Building the game RP~~\

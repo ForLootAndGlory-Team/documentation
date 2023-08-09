@@ -4,7 +4,7 @@ description: Your 3 next favorite mfers
 
 # Tickets & Characters
 
-**THE TICKETS**
+### THE TICKETS
 
 <figure><img src="../../.gitbook/assets/ticket.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,47 +20,45 @@ description: Your 3 next favorite mfers
 
 
 **In details :** \
-ERC1155 obtained by owning a NFT pirate. There is a cooldown each time you create your tickets. \
-These tickets can be used to mint game's characters. Every NFT pirate gives you 1 ticket of each characters (Smuggler, Corsair, Pirate).
+Obtained by owning an NFT pirate. These tickets can be used to mint the game's characters. Every NFT pirate gives you 1 ticket for each character (Smuggler, Corsair, Pirate). There is a cooldown each time you mint your tickets.&#x20;
 
 
 
 
-
-
-
-**THE CHARACTERS**
 
 <figure><img src="../../.gitbook/assets/all 3 characters.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
-**In brief :** \
-\- Unlimited supply with burn mechanism and mint cooldown\
-\- Your characters are in -> Crew -> Inventory\
-\- You can mint characters in -> Town -> Characters\
-\- Level them up to rare (lvl 30)\
-\- Level them up to legendary (lvl 70) \
-\- Give them drinks (Bottles of Rum you get from $BARRELS) to be able to make some actions\
-\- Send them to treasure hunts for EXP and Coins\
-\- Get them some gears within the Forge to level up their stats and EXP\
-\- Get them some bonuses for the hunt using the Brothel\
-\- Assign them to a building (carreers)\
-\- The character having the best stats is always on top of your inventory\
-\- Delegation to avoid clicking numerous times on your hardware or to rent it out
+
+
+**In brief:**
+
+* Unlimited supply with a burn mechanism and a mint cooldown.
+* Your characters are in -> Crew -> Inventory
+* You can mint characters in -> Town -> Characters
+* Level them up to rare (level 30).
+* Level them up to legendary (level 70).
+* Provide them with drinks (Bottles of Rum obtained from $BARRELS) to enable certain actions.
+* Send them on treasure hunts for EXP and coins.
+* Equip them with gear from the Forge to enhance their stats and EXP.
+* Apply bonuses for the hunt using the Brothel.
+* Assign them to a building (careers).
+* The character with the highest stats is always displayed at the top of your inventory.
+* Delegation is available to minimize the need for repeated clicking or to rent it out.
 
 
 
 **In details :** \
-ERC721 - Polygon. These are your Pirates. They can be minted using the tickets your PIRATE NFT gives you once a month. 1 Ticket = 3 mintable characters for free.\
-There is 3 kinds of characters. the Smuggler (1) The Corsair 2) and the Pirate (3). These classes will make sense later in Chapter II but will have no importance during Chapter I.\
-\
-All characters come naked (no gears) and at level zero, with randomly generated stats using chainlink (boarding, charisma and navigation). Gears are composed of : Head, chest, main hand, leg, feet. Their stats are part of the character’s total stats and can be obtained in the Forge building in exchange for Coins. More about this can be found at the Forge description.\
-\
-The characters will be useful for treasure hunt to bring Coins & EXP. You need EXP to level up the characters. EXP will matter during all game’s chapters. More about this can be found at the Hunt description. Later on, it will be used for PVP too (Chapter II).
+ERC721 - Polygon. These are your Pirates. You can mint them using the tickets provided by your PIRATE NFT once per month.&#x20;
 
-\
-Character's Career : The characters can be assigned within one of the buildings. They can become a Blacksmith in the Forge, a whoremonger in the Brothel and a secret one, only available later on in Chapter II. When the character is assigned in a building it is permanent and he cannot be removed or change his career.\
+There are three types of characters: the Smuggler (1), the Corsair (2), and the Pirate (3). These classes will gain significance later in Chapter II but won't hold much importance during Chapter I.
+
+All characters start without gear and at level zero, featuring randomly generated stats for boarding, charisma, and navigation using Chainlink. Gears consist of items like Head, chest, main hand, leg, feet. These gear stats contribute to the character's overall attributes and can be obtained in the Forge building in exchange for Coins. Further details about this can be found in the Forge description.
+
+Characters serve a purpose in treasure hunts to acquire Coins and EXP. Experience points are essential for leveling up characters, and their significance will persist throughout all chapters of the game. For more information, refer to the Hunt description. In later stages, EXP will also be relevant for PvP (Chapter II).
+
+Character's Career: Characters can be assigned to various buildings. They can become a Blacksmith in the Forge, a Whoremonger in the Brothel, and a Shipwright in the Shipyard. Once a character is assigned to a building, the decision is permanent, and they cannot be removed or change their career.\
 \
 
 
