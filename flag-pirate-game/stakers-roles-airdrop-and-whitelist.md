@@ -80,7 +80,8 @@ Special role for those who wants to participate to our mini games. Rumble, Garti
 **Emperors of the sea** \
 Founders\
 Pre-sale access \
-1 free tavern per emperor (total = 3)\
+No free nfts \
+No discount\
 5x secret airdrops (once the common treasure hunt is live)\
 \
 **Captain Crew**\
