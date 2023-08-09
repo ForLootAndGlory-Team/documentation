@@ -16,7 +16,7 @@
   * [Endgame : The Crown Of Gold](flag-pirate-game/copy-of-chapter-iii-the-crown-of-gold-pvp/endgame-the-crown-of-gold.md)
 * [Characters, Buildings, Assets](flag-pirate-game/characters-buildings-assets/README.md)
   * [FLAG Pirate NFT](flag-pirate-game/characters-buildings-assets/flag-pirate-nft.md)
-  * [The Characters](flag-pirate-game/characters-buildings-assets/the-characters.md)
+  * [Tickets & Characters](flag-pirate-game/characters-buildings-assets/tickets-and-characters.md)
   * [The Tavern](flag-pirate-game/characters-buildings-assets/the-tavern.md)
   * [The Forge](flag-pirate-game/characters-buildings-assets/the-forge.md)
   * [The Brothel](flag-pirate-game/characters-buildings-assets/the-brothel.md)

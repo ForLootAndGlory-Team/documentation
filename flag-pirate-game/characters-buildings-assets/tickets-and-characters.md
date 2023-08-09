@@ -2,10 +2,38 @@
 description: Your 3 next favorite mfers
 ---
 
-# The Characters
+# Tickets & Characters
+
+**THE TICKETS**
+
+<figure><img src="../../.gitbook/assets/ticket.png" alt=""><figcaption></figcaption></figure>
+
+\
+
+
+**In brief :** \
+\- 1 NFT pirate = 3 tickets (one of each)\
+\- One ticket = 1 character's mint\
+\- You can mint characters in -> Town -> Characters\
+\- Can be sold or bought within the marketplace
+
+
+
+**In details :** \
+ERC1155 obtained by owning a NFT pirate. There is a cooldown each time you create your tickets. \
+These tickets can be used to mint game's characters. Every NFT pirate gives you 1 ticket of each characters (Smuggler, Corsair, Pirate).
+
+
+
+
+
+
+
+**THE CHARACTERS**
 
 <figure><img src="../../.gitbook/assets/all 3 characters.png" alt=""><figcaption></figcaption></figure>
 
+\
 \
 **In brief :** \
 \- Unlimited supply with burn mechanism and mint cooldown\
@@ -19,8 +47,10 @@ description: Your 3 next favorite mfers
 \- Get them some bonuses for the hunt using the Brothel\
 \- Assign them to a building (carreers)\
 \- The character having the best stats is always on top of your inventory\
-\- Delegation to avoid clicking numerous times on your hardware or to rent it out\
-\
+\- Delegation to avoid clicking numerous times on your hardware or to rent it out
+
+
+
 **In details :** \
 ERC721 - Polygon. These are your Pirates. They can be minted using the tickets your PIRATE NFT gives you once a month. 1 Ticket = 3 mintable characters for free.\
 There is 3 kinds of characters. the Smuggler (1) The Corsair 2) and the Pirate (3). These classes will make sense later in Chapter II but will have no importance during Chapter I.\
