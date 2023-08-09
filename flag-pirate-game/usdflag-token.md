@@ -4,15 +4,17 @@
 
 ## ROYALTY STAKERS
 
-**Current staking system**\
-There is a daily FLAG emission from the 2,7 years secured (see below). 20% of the ingame fees are gonna be automatically added to the vault. Those 20% are used ot buy back FLAG to be then given to our stakers.  The system that is gonna be in place will add 2,3 years to the royalty distribution to reach a 5 years of FLAG distribution. The vault will automatically adjust the daily emission to always keep a 5 years distribution. It might sounds a bit complicated so don't hesitate to ask the team within the discord server if it isn't clear. From our previous system, as of today, thanks to these first investments (see below), we secured 2,7 years of royalties distribution among our stakers. Our game will gives us the opportunity to add more to it.\
 \
-**Previous staking system**\
-We started as a guild made of investors investing into play 2 earn games. With the first token sale we used the funds to also invest into games and profits were distributed to the stakers (most assets were rented out to "scholars" that also were stakers). In exchange of staking and having access to all assets, they were also given a 90% cut / share of the profit made within the games. the 10% left were distributed amongs all stakers.
+FLAG token is a super low supply token : 1.000.000. Using our rare token was NOT a good idea. This is precisely where many other play-to-earn games have failed. Distributing your project's token in this manner can lead to hyper-inflation, and only a substantial burning mechanism can help regulate its price. This approach isn't healthy, and it's how you end up negatively impacting your loyal holders with a non-stop dumping price. Instead, let  us explain how the FLAG token will provide value to everyone.
+
+Twenty percent of the in-game fees will be automatically added to the vault. This 20% will be used to buy back FLAG tokens, which will then be redistributed to our stakers. The vault will adjust the daily emissions to ensure a consistent distribution over a five-year period. Since we're buying back FLAG tokens and have a controlled inflation through the LP/Staking Royalty program, regular holders and speculators will also benefit.
+
+Now, what about the gamers? It will be highly recommended to stake some FLAG tokens, as the total amount you stake will determine the generous Bottle of Rum's discounts on in-game actions that require its use. To give you an idea : 10.000 staked FLAG = 80% discount!\
 
 
 
-_**You can read the FLAG's tokenomic below :**_
+
+_**You can also read the FLAG's tokenomic below :**_
 
 {% content-ref url="../economy-tokens-lp/usdflag-tokenomic/" %}
 [usdflag-tokenomic](../economy-tokens-lp/usdflag-tokenomic/)
