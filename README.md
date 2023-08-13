@@ -29,7 +29,7 @@ Firstly, it's crucial to note that, as pioneers in the play-to-earn (P2E) realm,
 3. **Implementing a halving mechanism for our sole in-game token ($barrels), similar to Bitcoin's, which will be essential for gameplay and most actions. Additionally, those aiming for the lucrative legendary level must be willing to take the risk of burning characters and other assets.**
 4. **As mentioned earlier, earning money requires risking asset burning and substantial token usage.**
 5. **No need of any pools as the main token cannot be used as such but must "mint" some "bottle of rum". These bottles won't be tokens but NFTs.**
-6. **Having everything on-chain, with the front-end (website) mirrored on IPFS, ensuring the game remains playable regardless of circumstances. We consider the project to be 99% decentralized, with the remaining 1% potentially reliant on a small database for asset metadata – an issue already fixed but that will be put in place once the game gains popularity.**
+6. **Having everything on-chain, with the front-end (website) mirrored on IPFS, ensuring the game remains playable regardless of circumstances. We consider the project to be 100% decentralized.**
 7. **Eliminating off-chain tokens and adopting a similar approach for the website.**
 8. **No external secretive deals.**
 9. **Reserving substantial rewards, the treasure chest (end-game), for dedicated players. Others can also profit with their assets by selling them, spending some time and fees in-game.**
