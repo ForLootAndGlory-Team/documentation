@@ -27,8 +27,8 @@ The premium is an amount in matic that the building's owner can add for the user
 
 (Note: The Shipyard's crafting system is designed to offer a dynamic and engaging experience for players, and adjustments may be made to ensure a balanced and enjoyable gameplay.)
 
-Each time the building is used to build equipments , the Shipwright gains EXP according to the rarity of the chests used: +2XP for common, +6XP for rare, or +12XP for legendary. The more experienced the Shipwright is, the better the stats of the crafted equipments will be. \
-When building a ship, the Shipwright gets 12XP. \
+Each time the building is used to build equipments , the Shipwright gains EXP according to the rarity of the chests used: +3XP for common, +24XP for rare, or +72XP for legendary. The more experienced the Shipwright is, the better the stats of the crafted equipments will be. \
+When building a ship, the Shipwright gets 30XP. \
 
 
 **Chests and Equipment Rarities**

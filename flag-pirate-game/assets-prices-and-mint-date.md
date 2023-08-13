@@ -4,7 +4,7 @@
 
 \*Keep in mind some minor changes could occur before the launch.\
 \
-**Flag Pirate NFT - ERC721a - Matic (Polygon)**\
+**Flag Pirate NFT - ERC721 - Matic (Polygon)**\
 Price :  Free Mint\
 Total : 10 000 _(as it is a free mint, we will keep a good bunch to make giveaways and mini games)_\
 Mint Date : TBA - After testnet phase\

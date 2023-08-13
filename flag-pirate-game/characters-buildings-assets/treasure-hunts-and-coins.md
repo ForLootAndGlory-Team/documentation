@@ -21,10 +21,10 @@ description: Wen lambo ?
 \
 **In details :** \
 First, your character needs “thirst points” so you need to give him some drinks. These drinks, are Bottles of Rum made with $BARRELS produced in the Tavern. These hunts gives Coins & EXP. According to its statistics, it will have a chance to win the treasure hunts. The treasure hunt gives you EXP + Coins if you succeed. If you lose, you get less EXP than if you had won + no Coins. You need EXP to level up the characters. You need to reach a certain level to be able to hunt rare (30) and legendary hunts (70). Same to get rare and legendary gears. Gold Coins will be needed for Chapter II / endgame.    If you win a hunt you will get 100 Coins. \
-°  For the Common : +6 EXP  \
-° For the Rare : +12 XP. \
+°  For the Common : +12 EXP  \
+° For the Rare : +50 XP. \
  ° For the Legendary : +200 EXP.\
-° If you lose : +1 EXP. \
+° If you lose : +0 EXP. \
  \*There is a chance of characters burn for the legendary. \
 \
     Coins utility :\
