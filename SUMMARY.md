@@ -10,7 +10,6 @@
   * [EXP & Levels](flag-pirate-game/chapter-i-pirates-landing-pve/exp-and-levels.md)
 * [Chapter II - Pirate's Rampage \[PVP\]](flag-pirate-game/chapter-ii-pirates-rampage-pvp/README.md)
   * [PVP mode](flag-pirate-game/chapter-ii-pirates-rampage-pvp/pvp-mode.md)
-  * [End Game](flag-pirate-game/chapter-ii-pirates-rampage-pvp/end-game.md)
   * [SECRET ASSET](flag-pirate-game/chapter-ii-pirates-rampage-pvp/secret-asset.md)
 * [Copy of Chapter III - The Crown Of Gold \[PVP\]](flag-pirate-game/copy-of-chapter-iii-the-crown-of-gold-pvp/README.md)
   * [Endgame : The Crown Of Gold](flag-pirate-game/copy-of-chapter-iii-the-crown-of-gold-pvp/endgame-the-crown-of-gold.md)
