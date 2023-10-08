@@ -46,9 +46,3 @@
 * [Decentralization & Our Game](sail-with-us.../decentralization-and-our-game.md)
 * [Safety first](sail-with-us.../safety-first.md)
 * [Privacy Guide](sail-with-us.../privacy-guide.md)
-
-## 🎓 Scholarship
-
-* [Request a scholarship](scholarship/request-a-scholarship.md)
-* [Delegate a scholarship](scholarship/delegate-a-scholarship.md)
-* [Dashboard](scholarship/dashboard.md)
