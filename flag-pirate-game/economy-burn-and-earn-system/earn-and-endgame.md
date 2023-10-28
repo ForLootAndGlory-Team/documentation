@@ -1,7 +1,6 @@
 # Earn & Endgame
 
-_Yeah mfers, we know it is the most interesting part here_ :joy:\
-_So here is a quick summary on how you can make money in FLAG pirate game._ \
+Hey pirates, here's the juicy bit: how to earn in the FLAG pirate game. \
 \
 **THE MARKETPLACE WILL BE YOUR BEST FRIEND BUT NOT ONLY**&#x20;
 
@@ -14,7 +13,8 @@ _So here is a quick summary on how you can make money in FLAG pirate game._ \
 * Sell your Chests. (PvP)
 * Sell services from buildings if you own some: Brothel, Forge, Shipyard.
 * FLAG stakers: earn from in-game fees.
-* Sell unused characters.
+
+
 
 **AND, THE BIG FINAL LOOT FROM THE CROWN OF GOLD (ENDGAME)**
 

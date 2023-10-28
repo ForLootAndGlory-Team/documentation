@@ -21,7 +21,7 @@
   * [The Shipyard](flag-pirate-game/characters-buildings-assets/the-shipyard.md)
   * [The Ships](flag-pirate-game/characters-buildings-assets/the-ships.md)
   * [Treasure Hunts & Coins](flag-pirate-game/characters-buildings-assets/treasure-hunts-and-coins.md)
-  * [SECRET ASSET](flag-pirate-game/characters-buildings-assets/secret-asset.md)
+  * [The Compass](flag-pirate-game/characters-buildings-assets/the-compass.md)
 * [Economy, Burn & Earn system](flag-pirate-game/economy-burn-and-earn-system/README.md)
   * [$FLAG token](flag-pirate-game/economy-burn-and-earn-system/usdflag-token.md)
   * [Fees & Mint](flag-pirate-game/economy-burn-and-earn-system/fees-and-mint.md)
