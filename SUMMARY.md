@@ -3,7 +3,7 @@
 ## 🏴☠ FLAG PIRATE GAME
 
 * [Introduction](README.md)
-* [Roadmap progress - 93%](flag-pirate-game/roadmap-progress-70.md)
+* [Roadmap progress - 97%](flag-pirate-game/roadmap-progress-97.md)
 * [Chapter I - Pirate's Landing \[PVE\]](<README (1).md>)
   * [PVE mode](flag-pirate-game/chapter-i-pirates-landing-pve/pve-mode.md)
   * [Quick starting guide](flag-pirate-game/chapter-i-pirates-landing-pve/quick-starting-guide.md)

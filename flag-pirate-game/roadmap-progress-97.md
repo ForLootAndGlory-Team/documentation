@@ -1,6 +1,6 @@
-# Roadmap progress - 93%
+# Roadmap progress - 97%
 
-We would rather not provide a specific date for the mainnet's launch. Our approach is to provide regular updates and offer an approximate percentage to indicate our progress. As of August 9th, we have reached 93%.
+We prefer not to commit to a specific launch date for the mainnet. Instead, our strategy is to keep our community informed through regular updates and provide an estimated progress percentage. As of August 9th, we are at 97% completion
 
 \
 ° ~~Building the game RP~~\
@@ -14,6 +14,6 @@ We would rather not provide a specific date for the mainnet's launch. Our approa
 ° ~~Private Testnet open to few community members + another round of security Testing + fixing bugs people could find~~\
 ° ~~End-Game Smart Contrat + fixing previous testnet bugs~~\
 <mark style="color:green;">**We are here -->**</mark> Public testnet, testing the economic modele + Front-end Optimization\
-° Marketing + NFTs mint whitelist + Marketplace\
+<mark style="color:green;">**And here -->**</mark>° Marketing + NFTs mint whitelist + Marketplace\
 ° Game goes live (mainnet) - Some gaming assets and mechanism kept as a last minute surprise will be announced + Mint\
 ° Grand opening&#x20;
