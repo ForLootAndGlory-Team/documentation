@@ -3,7 +3,7 @@
 **The Chapter I - Pirate's Landing is the PVE mode.** \
 The objective:
 
-* Enhance your characters' levels through experience points (EXP).
+* Enhance your characters' levels through experience points (EXP) and crafted Gears using the Forge.
 * Level-up your Tavern.
 * Acquire the most exceptional gears available.
 * Engage in the production of $BARRELS (if you own a tavern).

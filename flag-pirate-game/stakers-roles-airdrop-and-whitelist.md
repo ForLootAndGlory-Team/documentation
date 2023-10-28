@@ -13,7 +13,7 @@ Depending on your stake, you can access different chans within discord and have 
 Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG\
-2  secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Whitelisted to mint first (pre-sale) \
 Royalties\
 \
@@ -22,7 +22,7 @@ Royalties\
 Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
-2  secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Whitelisted to mint first (pre-sale) \
 Royalties\
 \
@@ -32,7 +32,7 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
-2  secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
 \
 **Smuggler**\
@@ -41,7 +41,7 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
-2  secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
 \
 **Looter**\
@@ -50,13 +50,7 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint) \
-2  secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
-Royalties\
-\
-**Powder Monkey**\
-\+50 FLAG staked and/or PIRATE NFT owners\
-Raffle & giveaway to get a Pirate NFT and the secret asset airdrop\
-1 Pirate NFT - Zealy EXP reached (Lower EXP required than Landlubber- TBA)\
+2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
 \
 **Landlubber**\
@@ -82,7 +76,6 @@ Founders\
 Pre-sale access \
 No free nfts \
 No discount\
-5x secret airdrops (once the common treasure hunt is live)\
 \
 **Captain Crew**\
 Mod Boss \
