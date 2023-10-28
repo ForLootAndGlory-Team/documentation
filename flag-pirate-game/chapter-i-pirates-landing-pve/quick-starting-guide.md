@@ -10,18 +10,17 @@ _- Mumbai testnet token_ [_https://faucet.polygon.technology/_](https://faucet.p
 \
 **How and where to start :**&#x20;
 
-1. Click "mint" and mint some taverns. Minting one will automatically mint a PIRATE NFT to give you some tickets to mint ingame characters.&#x20;
-2. Click "town" and stake the tavern to produce $BARRELS.
-3. Go to "town" and "collectible" tab and "mint ticket". You'll receive your 3 playable characters.
-4. Go to "town" on the left sidebar and click "characters". Recruit your characters. (1 ticket gives 1 of each)
-5. Wait for the Tavern to produce $rhum. Go to Town to see if there is some to claim. If so, claim it
-6. Once you got some $BARRELS, go to "the sea" to start PVE by selecting how many "hunts" you want to do (button on the left of "hunt" under each characters)
-7. Click hunt, you will see how many "Coins" you got
-8. The character needs Bottle of Rum to go on hunts. When it is first minted, it comes with 20 drinks free but once used, you will need to add more for any action you would want to make with your characters.&#x20;
-9. You will need to put a character inside the forge and the brothel to make it work. The characters will also need Bottle of Rum to work properly.&#x20;
-10. Using the forge will give you gears / using the brothel will give you bonuses for the hunts.&#x20;
+1. Go the "Mint" and mint some taverns. Minting one will automatically mint a PIRATE NFT to give you some tickets to mint in-game characters.&#x20;
+2. Click "Building" and "Tavern" and stake the tavern to produce $BARRELS.
+3. Go to "Enrollment" (rolled paper icon) and "Recruiters" tab and click "Get ticket". You'll receive your 3 playable characters.
+4. Go to "Enroll crew" tab on the right sidebar. Recruit your characters. (1 ticket gives 1 of each)
+5. Wait for the Tavern to produce $rhum. Go to Building -> Tavern to see if there is some to claim. If so, claim it.
+6. After acquiring Barrels, select -> bottling to produce Rum Bottles. Then, navigate to -> Treasure Hunt (PvE) — identified by the crossed swords icon. Start the PvE by choosing your characters and providing them with drinks by adding bottles. After setting up, click on -> Hunt. Await the outcomes, which will be displayed under the Trophy Icon. You'll be able to view the number of "coins" your characters have earned. (_You can click on the wallet icon at the bottom right of the page to choose which icons you'd like to display on your screen.) Also,_ Each character requires a Bottle of Rum to embark on hunts. Initially, when minted, a character is equipped with 20 complimentary drinks. However, once these are consumed, you'll need to replenish the supply for any subsequent actions with your characters.&#x20;
+7. Utilizing the forge provides you with gear, while the brothel grants bonuses for your hunts. There's plenty more to explore in the game, and as you delve deeper, you'll uncover more features and activities.
 
-There is more to do that you can easily discover wandering around the game. From here you should be able to navigate within the dapps and able to play. If you need more informations, please ask us on discord testnet chans.&#x20;
+
+
+From this point, you should be well-equipped to navigate the dapps and engage in gameplay. Should you require additional information, feel free to reach out to us on the Discord testnet channels.
 
 ## MAINNET
 
