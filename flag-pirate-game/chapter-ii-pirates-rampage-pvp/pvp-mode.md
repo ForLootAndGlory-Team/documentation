@@ -1,3 +1,7 @@
+---
+description: 'Please Note: Details are subject to adjustments following balance reviews.'
+---
+
 # PVP mode
 
 **Chapter II - Pirate's Rampage**
