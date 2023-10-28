@@ -39,7 +39,6 @@
 * [Our Auto compounding vaults](economy-tokens-lp/our-auto-compounding-vaults/README.md)
   * [How to use the vault](economy-tokens-lp/our-auto-compounding-vaults/kyberswap.md)
 * [Liquidity Mining \[Noob Guide\]](economy-tokens-lp/liquidity-mining.md)
-* [Token Migration V1 to V2](economy-tokens-lp/migration-v1-to-v2-usdflag-token.md)
 
 ## 🏴☠ Sail with us...
 
