@@ -2,20 +2,24 @@
 
 _Yeah mfers, we know it is the most interesting part here_ :joy:\
 _So here is a quick summary on how you can make money in FLAG pirate game._ \
-_Note that the end-game won't be fully explained here as the Chapter II is not known to the public yet so we will mainly focus on the PVE part first._\
 \
-**THE MARKETPLACE WILL BE YOUR BEST FRIEND**\
+**THE MARKETPLACE WILL BE YOUR BEST FRIEND BUT NOT ONLY**&#x20;
+
+* Sell unused characters.
+* Sell spare tickets.
+* Sell surplus FLAG Pirate NFTs.
+* Sell Bottles of Rum.
+* Sell extra Gears.
+* Sell leftover Coins. (PvE)
+* Sell your Chests. (PvP)
+* Sell services from buildings if you own some: Brothel, Forge, Shipyard.
+* FLAG stakers: earn from in-game fees.
+* Sell unused characters.
+
+**AND, THE BIG FINAL LOOT FROM THE CROWN OF GOLD (ENDGAME)**
+
+* Go full legendary without burning your character and get access to the big treasure chest... \[PVP] this is by far the biggest prize anyone can get.\
+
+
 \
-\- Sell the characters you don't use \
-\- Sell the tickets you don't use\
-\- Sell the FLAG Pirate NFT you don't use\
-\- Sell the Bottle of Rum obtained from $BARRELS \
-\- Sell the gears you don't use\
-\- Sell the Coins you don't use\
-\- Sell your building's services (Brothel / Forge / another one yet to be known for PVP)\
-\- If you are a FLAG staker, get a nice cut from the fees generated ingame\
-&#x20;\
 \
-**ENDGAME**\
-\- Loot time \[secret - TBA]\
-\- Go full legendary without burning your character and get access to the big treasure chest... \[PVP]\
