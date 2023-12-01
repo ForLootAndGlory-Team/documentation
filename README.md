@@ -24,14 +24,14 @@ Firstly, it's crucial to note that, as pioneers in the play-to-earn (P2E) realm,
 ### OUR APPROACH 
 
 1. **Not depending on a specific user count for the economic model to function. Even with just 100 players, committed players can still earn money.**
-2. **Introducing gas fees for every action, making it a combination of time spent and gas utilized.**&#x20;
-3. **Implementing a halving mechanism for our sole in-game token ($barrels), similar to Bitcoin's, which will be essential for gameplay and most actions. Additionally, those aiming for the lucrative legendary level must be willing to take the risk of burning characters and other assets.**
-4. **As mentioned earlier, earning money requires risking asset burning and substantial token usage.**
+2. **Introducing gas fees for every action, making it a combination of time spent and gas used.**&#x20;
+3. **Implementing a halving mechanism for our sole in-game token ($barrels), similar to Bitcoin's, which will be essential for gameplay and most actions.  Plus, this $barrels will be NFTs and not ERC20 tokens. Additionally, those aiming for the lucrative legendary level must be willing to take the risk of burning characters and other assets.**
+4. **As mentioned earlier, earning money requires risking asset burning and substantial $barrels usage.**
 5. **No need of any pools as the main token cannot be used as such but must "mint" some "bottle of rum". These bottles won't be tokens but NFTs.**
-6. **Having everything on-chain, with the front-end (website) mirrored on IPFS, ensuring the game remains playable regardless of circumstances. We consider the project to be 100% decentralized once keys (smart contracts) are thrown away.**
+6. **Having everything on-chain, with the front-end (website) mirrored on IPFS, ensuring the game remains playable regardless of circumstances. ENS domain. Chainlink VRF. We consider the project to be 100% decentralized once keys (smart contracts) are thrown away.**
 7. **Eliminating off-chain tokens and adopting a similar approach for the website.**
 8. **Reserving substantial rewards, the treasure chest (end-game), for dedicated players. Others can also profit with their assets by selling them, spending some time and fees in-game.**
-9. **We don't receive any revenue from the PVE buildings, pirate NFTs, or PVP building mints, except for a recently introduced "secret" asset. This asset serves as an optional and non-essential game bonus, available for less than 10 Matic. Additionally, there will be no token sales. Our potential earnings will constitute a small percentage of the gas fees utilized by players and NFT royalties. That's the extent of it. All remaining proceeds will directly flow into the treasure chests for players to win or be distributed to building owners (further details provided in the documentation).**
+9. **We don't receive any revenue from the PVE buildings, pirate NFTs, or PVP building mints, except for a recently introduced "secret" asset. This asset serves as an optional and non-essential game bonus, available for less than 10 Matic. Additionally, there will be no token sales. Our potential earnings will constitute a small percentage of the gas fees utilized by players and NFT royalties. That's the extent of it. All remaining proceeds will directly flow into the treasure chests for players to win or be distributed to building owners (further details provided in the documentation). For the $FLAG tokens, please head to the** [**$FLAG Tokenomic page.**](economy-tokens-lp/usdflag-tokenomic/)&#x20;
 10. **Using Polygon, a well-established, PoS-based blockchain that is considered safe, but with contingency plans to migrate if necessary.**
 
 We believe we have resolved the issues observed in other projects and are confident that our game will stand out. Welcome to our Pirate's lair!\
