@@ -4,8 +4,8 @@ $FLAG is capped at a _Max Supply_ of **1,000,000 Tokens**. After _the first two 
 
 There was **three sale phases :**
 
-* The **private presale (8.4%)** at a fixed price reserved for members who have participated in the DAPP _Testnet_ and in the building of the community and _Discord_.
-* The **public presale (7.6%)**
+* The **private presale (10%)** at a fixed price reserved for members who have participated in the DAPP _Testnet_ and in the building of the community and _Discord_.
+* The **public presale (10%)**
 * The **IDO** **(80%)** , to launch a decentralized exchange pool, bring trading volume to **$FLAG**, and provide access to returns for those who provides liquidity.
 
 #### $FLAG distribution
@@ -17,17 +17,12 @@ Phase 0: Each _**Emperor Of The Sea**_ (founders) bought _**4,000 $FLAG, Captain
 **Phase 1 (Private presale)**
 
 * Price per _$FLAG:_ **0.25 MATIC**
-* Number of _$FLAG_ Availbale: **84,000 $FLAG**
+* Number of _$FLAG_ Availbale: **100,000 $FLAG**
 
 &#x20; **Phase 2 (Public presale)**
 
 * Price per _$FLAG:_ **0.5 MATIC**
-* Number of _$FLAG_ Available: **76,000 $FLAG**
-
-&#x20;**Phase 3 (public sale)**
-
-* Price per _$FLAG:_ **Market Price**
-* Number of _$FLAG_ Available: **200,000 $FLAG**
+* Number of _$FLAG_ Available: **100,000 $FLAG**
 
 **Finale Stage (LP mining and Staking)**
 
