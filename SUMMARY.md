@@ -37,9 +37,6 @@
 * [$FLAG Tokenomic](economy-tokens-lp/usdflag-tokenomic/README.md)
   * [Buying FLAG](economy-tokens-lp/usdflag-tokenomic/buying-flag.md)
 * [$BARRELS Tokenomic](economy-tokens-lp/usdrhum-tokenomic.md)
-* [Our Auto compounding vaults](economy-tokens-lp/our-auto-compounding-vaults/README.md)
-  * [How to use the vault](economy-tokens-lp/our-auto-compounding-vaults/kyberswap.md)
-* [Liquidity Mining \[Noob Guide\]](economy-tokens-lp/liquidity-mining.md)
 
 ## 🏴‍☠️ Sail with us...
 
