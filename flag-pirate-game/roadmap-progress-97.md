@@ -1,6 +1,6 @@
 # Roadmap progress - 97%
 
-We prefer not to commit to a specific launch date for the mainnet. Instead, our strategy is to keep our community informed through regular updates and provide an estimated progress percentage. As of October 28th, we are at 97% completion
+We prefer not to commit to a specific launch date for the mainnet. Instead, our strategy is to keep our community informed through regular updates and provide an estimated progress percentage. As of March 5th, we are at 97% completion
 
 \
 ° ~~Building the game RP~~\

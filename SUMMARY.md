@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🏴☠ FLAG PIRATE GAME
+## 🏴‍☠️ FLAG PIRATE GAME
 
 * [Introduction](README.md)
 * [Game economy](flag-pirate-game/game-economy.md)
@@ -32,7 +32,7 @@
 * [Assets, Prices & Mint Date](flag-pirate-game/assets-prices-and-mint-date.md)
 * [Stakers, Roles, Airdrop & Whitelist](flag-pirate-game/stakers-roles-airdrop-and-whitelist.md)
 
-## 🏴☠ Economy - Tokens - LP
+## 🏴‍☠️ Economy - Tokens - LP
 
 * [$FLAG Tokenomic](economy-tokens-lp/usdflag-tokenomic/README.md)
   * [Buying FLAG](economy-tokens-lp/usdflag-tokenomic/buying-flag.md)
@@ -41,7 +41,7 @@
   * [How to use the vault](economy-tokens-lp/our-auto-compounding-vaults/kyberswap.md)
 * [Liquidity Mining \[Noob Guide\]](economy-tokens-lp/liquidity-mining.md)
 
-## 🏴☠ Sail with us...
+## 🏴‍☠️ Sail with us...
 
 * [Decentralization & Our Game](sail-with-us.../decentralization-and-our-game.md)
 * [Safety first](sail-with-us.../safety-first.md)

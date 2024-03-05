@@ -32,8 +32,8 @@ In the exciting Player versus Player (PvP) mode, players set sail on thrilling v
 #### 1. Seafarer's Run (Common Odyssey)
 
 * **Duration**: 7 days.
-* **Defeat Protection**: 24 hours.
-* **Starting Cargo**: 500 bottles of rum.
+* **Defeat Protection**: 12 hours.
+* **Starting Cargo**: 5000 bottles of rum.
 * **Stake per Attack**: 100 bottles of rum.
 * **Reward :** Common Chests
 
@@ -41,16 +41,16 @@ In the exciting Player versus Player (PvP) mode, players set sail on thrilling v
 
 * **Duration**: 7 days.
 * **Defeat Protection**: 12 hours.
-* **Starting Cargo**: 5000 bottles of rum.
-* **Stake per Attack**: 1000 bottles of rum.
+* **Starting Cargo**: 10000 bottles of rum.
+* **Stake per Attack**: 2000 bottles of rum.
 * **Reward :** Rare Chests
 
 #### 3. Siren's Call (Legendary Odyssey)
 
 * **Duration**: 7 days.
-* **Defeat Protection**: 24 hours.
-* **Starting Cargo**: 10000 bottles of rum.
-* **Stake per Attack**: 2000 bottles of rum.
+* **Defeat Protection**: 12 hours.
+* **Starting Cargo**: 25000 bottles of rum.
+* **Stake per Attack**: 5000 bottles of rum.
 * **Reward :** Legendary Chests
 * **Note**: In the Siren's Call, if the cargo reaches zero, the ship will be destroyed.
 

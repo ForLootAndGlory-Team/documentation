@@ -10,7 +10,7 @@ In the thrilling Crown Of Gold chapter, players who possess legendary ships can 
 
 * Players with legendary ships may earn Epic Odyssey maps as rewards for their daring exploits. These maps come in three rarities: Common, Rare, and Legendary.
 * **Common Odyssey Map**: Obtained through successful completion of various voyages.
-* **Rare Odyssey Map**: Can be exchanged for 1000 Common Voyage Maps.
+* **Rare Odyssey Map**: Can be exchanged for 100 Common Voyage Maps.
 * **Legendary Odyssey Map**: Exchanged for 100 Rare Voyage Maps.
 
 #### Seeking the Untold Riches
@@ -27,4 +27,4 @@ The Lost Treasure is a culmination of the vast amount of gas accumulated by all 
 
 **The Crown Of Gold Is Yours !**
 
-So you've obtained your Legendary Odyssey Map, and you've sent your ship on a 30-days journey to acquire that beautiful Crown of Gold. Now, all that's left is patience. You'll need to wait for 7 days to complete this final quest, and a percentage of the Chest will be airdropped directly to your wallet. The tokens you'll receive are $MATIC tokens. The 7-days duration is designed to regulate the chest, allowing it to be replenished by other players during that time. The amount should be quite substantial, rewarding the dedicated players (try-hard players), and it consists of a % of all fees paid in Chapter I and II, plus the building's mint.
+So you've obtained your Legendary Odyssey Map, and you've sent your ship on a 30-days journey to acquire that beautiful Crown of Gold. Now, all that's left is patience. And a percentage of the Chest will be claimable directly to your wallet. The tokens you'll receive are $rETH tokens. The 30-days duration is designed to regulate the chest, allowing it to be replenished by other players during that time. The amount should be quite substantial, rewarding the dedicated players (try-hard players), and it consists of a % of all fees paid in Chapter I and II, plus the building's mint.

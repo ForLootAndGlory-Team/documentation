@@ -8,7 +8,7 @@
 * Each $BARRELS can produce 100 Bottles of Rum
 * No presale / IDO / ICO etc...&#x20;
 * No MaRkEtInG / AdVisOrS or team allocations
-* The daily emission per Tavern is : \[TBA]
+* The daily emission per Tavern is : 100 $BARRELS
 * The total emission per day will be regulated by a halving similar to the one on Bitcoin. Each time the total circulating supply goes above 1.000.000, a halving occurs. If it goes below, the halving is automatically cancelled. \
   \
   \

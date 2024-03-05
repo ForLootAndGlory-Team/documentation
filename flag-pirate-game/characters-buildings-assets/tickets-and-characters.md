@@ -50,7 +50,7 @@ Obtained by owning an NFT pirate. These tickets can be used to mint the game's c
 
 
 **In details :** \
-ERC721 - Polygon. These are your Pirates. You can mint them using the tickets provided by your PIRATE NFT once per month.&#x20;
+ERC1155. These are your Pirates. You can mint them using the tickets provided by your PIRATE NFT once per 3 months.&#x20;
 
 There are three types of characters: the Smuggler (1), the Corsair (2), and the Pirate (3). These classes will gain significance later in Chapter II but won't hold much importance during Chapter I.
 
