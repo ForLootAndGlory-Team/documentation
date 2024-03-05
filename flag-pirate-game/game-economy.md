@@ -8,7 +8,7 @@ Here is a brief overview of the loop that will maintain the sustainability of th
 
 **The first part is the FLAG token (refer to tokenomics). Stakers will enjoy several in-game and off-game benefits:**
 
-* Discounts on the quantity of 'bottle of rum' required in-game (these bottles being essential for each action)
+* Discounts on the quantity of 'bottle of rum' required in-game (these bottles being essential for each action) and rETH ingame fees.
 * A percentage cut of the game's generated fees (with a buyback of FLAG directly redistributed to the stakers)
 * Advantages in airdrops of compasses through giveaways and other contests (an indispensable consumable NFT for legendary PvE and PvP)
 
