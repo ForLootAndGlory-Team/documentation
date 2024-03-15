@@ -14,7 +14,7 @@ description: Your 3 next favorite mfers
 **In brief :** \
 \- 1 NFT pirate = 3 tickets (one of each)\
 \- One ticket = 1 character's mint\
-\- You can mint characters in -> Town -> Characters\
+\- You can mint characters in -> Enrollment -> Enroll Crew\
 \- Can be sold or bought within the marketplace
 
 
@@ -35,8 +35,8 @@ Obtained by owning an NFT pirate. These tickets can be used to mint the game's c
 **In brief:**
 
 * Unlimited supply with a burn mechanism and a mint cooldown.
-* Your characters are in -> Crew -> Inventory
-* You can mint characters in -> Town -> Characters
+* Your characters are in -> Crew
+* You can mint characters in -> Enrollment -> Enroll Crew
 * Level them up to rare (level 30).
 * Level them up to legendary (level 70).
 * Provide them with drinks (Bottles of Rum obtained from $BARRELS) to enable certain actions.
