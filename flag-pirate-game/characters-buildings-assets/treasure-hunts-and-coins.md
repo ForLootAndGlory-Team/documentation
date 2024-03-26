@@ -10,7 +10,7 @@ description: Wen lambo ?
 \- Go on hunts to get some Coins and EXP\
 \- Use the Coins to craft gears within the Forge\
 \- Bonuses obtained from the Brothel gives you more chances to get more Coins\
-\- Access it by clicking The Sea -> Treasure Hunt\
+\- Access it by clicking Journey -> Treasure Hunt\
 \- Give "drinks" (Bottle of Rum) to your character to go on Hunts\
 \- 10 Bottles of Rum = 1 common hunt, 250 Bottles of Rum = 1 rare hunt,  5000 Bottles of Rum = 1 legendary hunt\
 \- Will be indispensable for PVP \

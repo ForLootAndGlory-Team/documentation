@@ -26,7 +26,7 @@ No Pirate’s life without a brothel ! This building can give you a stats bonus 
 \
 The max level is 100. Once reached, the whoremonger can give 100 more bonuses then dies (burn). A new character will be needed or no gears can be crafted.   Bonus (buff) : if the whoremonger is at 139 EXP = bonus of 139 stats.  The bonus rarity only work for specific hunts (rare bonus asked can only be used for rare hunt etc.)  Debuff : visiting a brothel can also make the bonus obtained inactive, the girls of the brothel leaving you a small gift when you leave, its name: "gonorrhoea". If you get it, on top of being a dirty mfer, you will also lose the bonus effect you freshly obtained.   \
 \
-To get the bonus there is a fee to pay in Matic as for the Forge with the same conditions 80% owner 20% protocol.  Each time the brothel is visited, the whoremonger gains EXP according to the rarity requested (common +3XP, rare +24XP, legendary +72XP). The higher the whoremonger EXP is, the more the “Filles de joies” inside give a good bonus.   The premium is an amount in matic that the building’s owner can add to his building for the users who would come to use it.  \
+To get the bonus there is a fee to pay in rETH as for the Forge with the same conditions 80% owner 20% protocol.  Each time the brothel is visited, the whoremonger gains EXP according to the rarity requested (common +3XP, rare +24XP, legendary +72XP). The higher the whoremonger EXP is, the more the “Filles de joies” inside give a good bonus.   The premium is an amount in FLAG that the building’s owner can add to his building for the users who would come to use it.  \
 \
 Public/Private mode : In Public, everyone can use the building, in Private, only the owner can use it. \
 \

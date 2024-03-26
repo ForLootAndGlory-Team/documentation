@@ -20,7 +20,7 @@ description: Ever heard of a sober pirate ?
 **In details :** \
 This building can be obtained by mint. It produce $BARRELS of Rum once the building is staked. You can claim your $BARRELS whenever you want clicking the "claim" button under each tavern within the Dapp. Note that this building do not need to have a character assigned to it.  
 
-To Level up the tavern it cost 20 Matic\* + 1000 $BARRELS for level 1 and after +20% of $BARRELS for each additional levels. The Matic price is fixed no matter what level you level up to. You get +10% of $BARRELS production per level. \
+To Level up the tavern it cost 0.2 rETH + 1000 $BARRELS for level 1 and after +20% of $BARRELS for each additional levels. The rETH price is fixed no matter what level you level up to. You get +10% of $BARRELS production per level. \
 \
  A halving on the general production is triggered if the total $BARRELS circulating supply goes above 1.000.000. The halving is automatically cancelled if it goes below.   \
 \

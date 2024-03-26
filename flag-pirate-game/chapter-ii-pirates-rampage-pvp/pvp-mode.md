@@ -6,7 +6,7 @@ description: 'Please Note: Details are subject to adjustments following balance 
 
 **Chapter II - Pirate's Rampage**
 
-In the PvP (Player versus Player) mode, players immerse themselves in exhilarating naval battles, vying for treasures and renown on the expansive waters. Each voyage spans 7 days, and to take part, players need to fulfill particular prerequisites:
+In the PvP (Player versus Player) mode, players immerse themselves in exhilarating naval battles, vying for treasures and renown on the expansive waters. Each voyage spans some days, and to take part, players need to fulfill particular prerequisites:
 
 * Own a ship outfitted with a Captain: A player at level 100, completely equipped with legendary gear.
 * Hold bottles of rum: These are vital for enhancing a character's performance during battles.
@@ -31,26 +31,26 @@ In the exciting Player versus Player (PvP) mode, players set sail on thrilling v
 
 #### 1. Seafarer's Run (Common Odyssey)
 
-* **Duration**: 7 days.
+* **Duration**: 10 days.
 * **Defeat Protection**: 12 hours.
 * **Starting Cargo**: 5000 bottles of rum.
-* **Stake per Attack**: 100 bottles of rum.
+* **Stake per Attack**: 100 cargo point.
 * **Reward :** Common Chests
 
 #### 2. Plunderer's Quest (Rare Odyssey)
 
-* **Duration**: 7 days.
+* **Duration**: 15 days.
 * **Defeat Protection**: 12 hours.
 * **Starting Cargo**: 10000 bottles of rum.
-* **Stake per Attack**: 2000 bottles of rum.
+* **Stake per Attack**: 100 cargo point.
 * **Reward :** Rare Chests
 
 #### 3. Siren's Call (Legendary Odyssey)
 
-* **Duration**: 7 days.
+* **Duration**: 20 days.
 * **Defeat Protection**: 12 hours.
 * **Starting Cargo**: 25000 bottles of rum.
-* **Stake per Attack**: 5000 bottles of rum.
+* **Stake per Attack**: 100 cargo point.
 * **Reward :** Legendary Chests
 * **Note**: In the Siren's Call, if the cargo reaches zero, the ship will be destroyed.
 

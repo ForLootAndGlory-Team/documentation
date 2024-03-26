@@ -23,7 +23,7 @@ The Shipyard enables players to build magnificent ships that serve as the core o
 
 In the Shipyard, players can also use the services of the skilled Shipwright to craft powerful equipment for their ships. To create ship equipments, players must provide the Shipwright with special chests obtained from PvP "Odysseys". Each type of chest corresponds to a specific rarity level of ship equipment. To craft ship equipment, players must exchange the appropriate chests with the Shipwright, who will then start the crafting process. The Shipwright's experience and craftsmanship play a vital role, as higher-level Shipwrights have a greater chance of producing more powerful and valuable equipment.\
 Public/Private mode : In Public, everyone can use the building, in Private, only the owner can use it. \
-The premium is an amount in matic that the building's owner can add for the users who come to use it.
+The premium is an amount in FLAG that the building's owner can add for the users who come to use it.
 
 (Note: The Shipyard's crafting system is designed to offer a dynamic and engaging experience for players, and adjustments may be made to ensure a balanced and enjoyable gameplay.)
 

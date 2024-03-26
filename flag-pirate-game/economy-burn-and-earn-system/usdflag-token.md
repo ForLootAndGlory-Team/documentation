@@ -14,6 +14,6 @@ Now, what about the gamers? It will be highly recommended to stake some FLAG tok
 
 _**You can also read the FLAG's tokenomic below :**_
 
-{% content-ref url="../../economy-tokens-lp/usdflag-tokenomic/" %}
-[usdflag-tokenomic](../../economy-tokens-lp/usdflag-tokenomic/)
+{% content-ref url="../../economy-tokens-lp/usdflag-tokenomic.md" %}
+[usdflag-tokenomic.md](../../economy-tokens-lp/usdflag-tokenomic.md)
 {% endcontent-ref %}

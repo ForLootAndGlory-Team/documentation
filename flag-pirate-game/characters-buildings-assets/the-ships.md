@@ -10,7 +10,7 @@ The Shipyard and Shipwright empower players to design distinctive ships tailored
 
 #### **2. Crafting a Ship**
 
-* **Cost**: Crafting a ship incurs a matic fee.
+* **Cost**: Crafting a ship incurs a rETH fee.
   * **Distribution**: 80% of this fee goes to the building owner, while the remaining 20% is channeled to the protocol.
 * **Ship Bonuses**:
   * Bonuses are determined at random via Chainlink.

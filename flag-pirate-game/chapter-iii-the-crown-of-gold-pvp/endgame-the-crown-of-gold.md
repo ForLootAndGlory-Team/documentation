@@ -19,7 +19,7 @@ Once in possession of a Legendary Odyssey Map, players can embark on their final
 
 #### The Lost Treasure
 
-The Lost Treasure is a culmination of the vast amount of gas accumulated by all players throughout their adventurous journeys and progression. The Crown Of Gold poses the ultimate challenge, offering players the chance to claim unparalleled riches and fame. Only the most daring and skilled players will have the opportunity to unlock this extraordinary treasure.
+The Lost Treasure is a culmination of the vast amount of rETH accumulated by all players throughout their adventurous journeys and progression. The Crown Of Gold poses the ultimate challenge, offering players the chance to claim unparalleled riches and fame. Only the most daring and skilled players will have the opportunity to unlock this extraordinary treasure.
 
 (Note: The Endgame mechanics are subject to continuous fine-tuning to ensure a balanced and thrilling experience for all players.)
 
