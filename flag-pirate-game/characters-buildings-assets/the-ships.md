@@ -2,39 +2,55 @@
 
 <figure><img src="../../.gitbook/assets/SHIPS.png" alt=""><figcaption></figcaption></figure>
 
-### **Ship Construction Guide**
+***
 
-#### **1. Introduction**
+#### Ship Construction Guide
 
-The Shipyard and Shipwright empower players to design distinctive ships tailored to their strategy. A well-crafted ship is the key to ruling the high seas.
+**1. Introduction**
 
-#### **2. Crafting a Ship**
+The Shipyard and Shipwright are crucial facilities that allow players to craft ships uniquely suited to their strategic preferences in the game. The ability to construct a well-designed ship is fundamental for anyone aiming to dominate the high seas.
 
-* **Cost**: Crafting a ship incurs a rETH fee.
-  * **Distribution**: 80% of this fee goes to the building owner, while the remaining 20% is channeled to the protocol.
-* **Ship Bonuses**:
-  * Bonuses are determined at random via Chainlink.
-  * Ships feature bonuses influenced by the Shipwright's level, spanning from 5% to 15%.
-*   **Ship Types**:
+**2. Crafting a Ship**
 
-    * **Pirate**: Crafts a Caravel.
-    * **Corsair**: Produces a Schooner.
-    * **Smuggler**: Creates a Square Rig.
+**Cost:**\
+Crafting a ship requires a payment in rETH.
 
-    _Note_: Each character class is limited to crafting just one ship type.
-* **Ship Stats**:
-  * The ship's stats are influenced by its equipment and the onboard captain. When a captain is assigned, all their stats are integrated as the ship's base stats.
+**Distribution:**\
+80% of the crafting fee is allocated to the building owner, and the remaining 20% supports the protocol.
 
-#### **3. Ship Class Bonuses**
+**Ship Bonuses:**\
+The bonuses or maluses a ship receives depend on the Shipwright’s level, which can range from +10% to +30% for bonuses, and -10% to -30% for maluses.
 
-* **Caravel**: Offers a boarding bonus.
-* **Schooner**: Grants a charisma bonus.
-* **Square Rig**: Provides a sailing advantage.
+**Ship Types:**
 
-#### **4. General Ship Bonuses**
+* **Pirate:** Specializes in crafting Caravels.
+* **Corsair:** Focuses on producing Schooners.
+* **Smuggler:** Known for creating Square Rigs.
 
-* **Cargo Capacity**: Initiating an Odyssey amplifies the ship's cargo capacity, facilitating the transport of more precious items and rewards.
-* **Travel Speed**: Enhanced speed results in expedited voyages, ensuring rapid and effective trips.
-* **Attack Speed**: After a defeat, the time before the ship can launch another assault is reduced, ensuring quicker combat readiness.
-* **Defense Buff**: During an attack, the ship experiences a temporary boost, elevating its defense mechanisms.
-* **Attack Buff**: While attacking, the ship benefits from a short-lived stats boost, heightening its combat potency.
+**Note:** Each character class is restricted to crafting only their specific type of ship.
+
+**Ship Stats:** The stats of a ship are significantly influenced by the equipment it carries and the captain aboard. Once a captain is assigned to a ship, their individual stats become the ship’s base stats.
+
+**3. Ship Class Bonuses**
+
+**Caravel:**
+
+* **Bonus:** Improved boarding capabilities.
+* **Malus:** Reduced charisma.
+
+**Schooner:**
+
+* **Bonus:** Enhanced sailing performance.
+* **Malus:** Weaker boarding abilities.
+
+**Square Rig:**
+
+* **Bonus:** Increased charisma.
+* **Malus:** Decreased sailing efficiency.
+
+**Captain Bonuses**
+
+* **Pirates:** Receive an additional 20% boarding bonus.
+* **Corsair:** Gain an extra 20% charisma bonus.
+* **Smuggler:** Obtain a 20% increase in sailing bonus.
+

@@ -2,40 +2,55 @@
 
 <figure><img src="../../.gitbook/assets/SHIPYARD2.png" alt=""><figcaption></figcaption></figure>
 
+***
 
+#### Shipyard Overview
 
-**In brief :** \
-\- Total available to mint : \[to be determined]\
-\- Works with a character assigned to it. The character becomes a Shipwright\
-\- The Shipyard produces Ships for the PVP's "Odysseys" and also Ship's Equipments.\
-\- The Shipwright needs Bottles of Rum to have the skills to produce ships. 10 Bottles of Rum = 1 use\
-\- To get a Ship go to The Seas -> Visit Shipyard (from your own Shipyard or others)\
-\- The Shipwright gets EXP each time the Shipyard is used\
-\- The Shipwright dies and needs to be replaced after a certain number of used (described below)\
-\- Owners can ask a premium for others to use his Shipyard and can also turn it on a public or private use mode. To manage your Shipyard go to Town -> Shipyard\
-\- Shipyard's owners gets rewarded each time someone use it
+**In Brief:**
 
-\
-\
-**In details :** \
-&#x20;\
-The Shipyard enables players to build magnificent ships that serve as the core of their maritime escapades. Choose from three distinct ship types, each tailored to a specific class (Pirate, Corsair, or Smuggler), and set sail to conquer the seas! More about the kind of Ships can be found in the next page "The Ships". To make it work, the owner must have a character staked inside the Shipyard. The character will become a Shipwright. The Shipwright will need Bottle Of Rum to be productive and deliver his services. Each ship built requires 10 Bottle of Rum. Each use of the Shipyard gives the Shipwright EXP, which levels up his skills. The maximum level is 100. Once reached, the Shipwright can built 100 more ships/equipments, then the character dies (burns). A new character will be needed, or no ships can be crafted nor equipments (see below)
+* **Total Available to Mint:** \[to be determined]
+* **Functionality:** Works with a character assigned as a Shipwright to produce ships and ship's equipment for PvP "Odysseys."
+* **Resource Requirement:** 10 Bottles of Rum per use.
+* **Usage:** Accessible via The Seas -> Visit Shipyard (either your own or others').
+* **Shipwright Experience:** Gains EXP with each use.
+* **Shipwright Lifecycle:** Expires after a certain number of uses.
+* **Accessibility:** Owners can set the Shipyard to public or private mode via Town -> Shipyard.
+* **Usage Fee:** Owners can charge a premium in FLAG for others to use their Shipyard.
+* **Owner Rewards:** Owners are compensated each time their Shipyard is used.
 
-In the Shipyard, players can also use the services of the skilled Shipwright to craft powerful equipment for their ships. To create ship equipments, players must provide the Shipwright with special chests obtained from PvP "Odysseys". Each type of chest corresponds to a specific rarity level of ship equipment. To craft ship equipment, players must exchange the appropriate chests with the Shipwright, who will then start the crafting process. The Shipwright's experience and craftsmanship play a vital role, as higher-level Shipwrights have a greater chance of producing more powerful and valuable equipment.\
-Public/Private mode : In Public, everyone can use the building, in Private, only the owner can use it. \
-The premium is an amount in FLAG that the building's owner can add for the users who come to use it.
+**Detailed Guide:**
 
-(Note: The Shipyard's crafting system is designed to offer a dynamic and engaging experience for players, and adjustments may be made to ensure a balanced and enjoyable gameplay.)
+The Shipyard is a critical facility where players can build ships and craft ship equipment, essential for succeeding in maritime adventures and PvP "Odysseys." This system allows for the production of three specific ship types associated with the classes Pirate, Corsair, and Smuggler.
 
-Each time the building is used to build equipments , the Shipwright gains EXP according to the rarity of the chests used: +3XP for common, +24XP for rare, or +72XP for legendary. The more experienced the Shipwright is, the better the stats of the crafted equipments will be. \
-When building a ship, the Shipwright gets 30XP. \
+**Character and Resource Management:**
 
+* A character must be staked in the Shipyard to become a Shipwright.
+* Shipwrights require Bottles of Rum to produce ships or equipment, with each use consuming 10 Bottles of Rum.
 
-**Chests and Equipment Rarities**
+**Experience and Longevity:**
 
-* **Common Chest**: Obtained from **Seafarer's Run Odyssey**, used to craft Common ship equipment.
-* **Rare Chest**: Obtained from **Plunderer's Quest Odyssey**, used to craft Rare ship equipment.
-* **Legendary Chest**: Obtained from **Siren's Call's Odyssey**, used to craft Legendary ship equipment.
+* Each operation at the Shipyard provides the Shipwright with experience (EXP), enhancing their ability to produce higher quality ships and equipment.
+* The Shipwright gains 30XP per ship constructed.
+* For equipment crafting, the EXP gained depends on the chest's rarity used: +3XP for common, +24XP for rare, or +72XP for legendary.
+* A Shipwright can reach a maximum level of 100, after which they can build 100 more ships or pieces of equipment before expiring. A new character must then be assigned.
+
+**Crafting Equipment:**
+
+* Players can craft equipment by providing the Shipwright with chests obtained from various Odysseys.
+* The type of chest (Common, Rare, Legendary) determines the rarity of the equipment crafted.
+
+**Chests and Equipment Rarities:**
+
+* **Common Chest:** Obtained from Seafarer's Run Odyssey, crafts common ship equipment.
+* **Rare Chest:** Obtained from Plunderer's Quest Odyssey, crafts rare ship equipment.
+* **Legendary Chest:** Obtained from Siren's Call Odyssey, crafts legendary ship equipment.
+
+**Public/Private Mode:**
+
+* In Public mode, anyone can use the Shipyard.
+* In Private mode, only the owner has access to the facility.
+
+**Note:** The crafting system is designed to offer a dynamic and engaging player experience. Adjustments may be made to ensure balanced and enjoyable gameplay.
 
 
 

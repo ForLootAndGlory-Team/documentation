@@ -6,30 +6,50 @@ description: Ever heard of a sober pirate ?
 
 <figure><img src="../../.gitbook/assets/TAVERN=.png" alt=""><figcaption></figcaption></figure>
 
-**In brief :** \
-\- 999 in total will be available to mint\
-\- Stake it using the dapp to produce $BARRELS (ERC20)\
-\- To stake go to Town -> Tavern -> Stake button\
-\- Works without a character assigned to it\
-\- Produce $BARRELS of Rum that can be converted into Bottles of Rum (ERC1155)\
-\- Use produced $BARRELS produced\
-\- Sell Bottles of Rum on the marketplace\
-\- Level it up to produce +10% more $Barrels at each level up\
-\- Give Bottles of Rum to your characters for them to be able to do everything within the game\
-\
-**In details :** \
-This building can be obtained by mint. It produce $BARRELS of Rum once the building is staked. You can claim your $BARRELS whenever you want clicking the "claim" button under each tavern within the Dapp. Note that this building do not need to have a character assigned to it.  
+***
 
-To Level up the tavern it cost 0.2 rETH + 1000 $BARRELS for level 1 and after +20% of $BARRELS for each additional levels. The rETH price is fixed no matter what level you level up to. You get +10% of $BARRELS production per level. \
-\
- A halving on the general production is triggered if the total $BARRELS circulating supply goes above 1.000.000. The halving is automatically cancelled if it goes below.   \
-\
-1 $BARREL = 100 Bottles of Rum\
-Above your Tavern, you can click "Bottling" to obtain your bottles (to use or sell on the marketplace)\
-\
-_\*The amount may sound expensive but it regulates the_ $BARRELS _production and raise consequently the endgame rewards. The money goes straight to the end-game and so, goes back to the winners (PVP Chapter II)._   \
-\
-See also : [usdrhum-tokenomic.md](../../economy-tokens-lp/usdrhum-tokenomic.md "mention")  and [earn-and-endgame.md](../economy-burn-and-earn-system/earn-and-endgame.md "mention")
+#### Tavern Overview
+
+**In Brief:**
+
+* **Total Availability:** 999 units available for minting.
+* **Functionality:** Stakes to produce $BARRELS (ERC20), which are converted into Bottles of Rum (ERC1155).
+* **Staking Location:** Go to Town -> Tavern -> Stake button.
+* **Operation:** Does not require a character to be assigned.
+* **Production Increase:** Each level up increases $BARRELS production by +10%.
+* **Usage:** Bottles of Rum are essential for character activities within the game.
+* **Marketplace Activity:** Sell Bottles of Rum on the marketplace.
+
+**Detailed Guide:**
+
+**Minting and Staking Process:**
+
+* **Minting:** Obtain a Tavern by minting.
+* **Staking:** Once staked in the dApp, the Tavern begins producing $BARRELS of Rum.
+
+**$BARRELS Claiming:**
+
+* Claim your $BARRELS using the "claim" button found under each tavern within the dApp interface. You can claim at any time, allowing flexibility in managing your resources.
+
+**Leveling Up Tavern:**
+
+* **Cost:** To level up the tavern, it costs 0.2 rETH + 1000 $BARRELS for the first level. Each subsequent level requires an additional +20% of $BARRELS.
+* **Fixed rETH Cost:** The rETH price remains the same regardless of the level.
+* **Production Bonus:** Each level increases $BARRELS production by +10%.
+
+**Production Halving Mechanism:**
+
+* If the total circulating supply of $BARRELS exceeds 1,000,000, a halving of general production is triggered to maintain balance. This halving is automatically reversed if the supply drops below this threshold.
+
+**Bottling Process:**
+
+* Convert $BARRELS into Bottles of Rum by clicking "Bottling" above your Tavern. This conversion is crucial as 1 $BARREL equals 100 Bottles of Rum, which can then be used by characters or sold on the marketplace.
+
+**Economic and Strategic Impact:**
+
+* The pricing and leveling costs are designed to regulate $BARRELS production and enhance endgame rewards. All funds from this process contribute directly to end-game payouts, benefitting PvP Chapter II winners.\
+  \
+  See also : [usdrhum-tokenomic.md](../../economy-tokens-lp/usdrhum-tokenomic.md "mention")  and [earn-and-endgame.md](../economy-burn-and-earn-system/earn-and-endgame.md "mention")
 
 
 

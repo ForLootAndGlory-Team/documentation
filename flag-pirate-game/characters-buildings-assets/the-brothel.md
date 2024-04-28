@@ -8,26 +8,46 @@ description: Every men needs some good company
 
 <figure><img src="../../.gitbook/assets/BROTHEL=.png" alt=""><figcaption></figcaption></figure>
 
-**In brief :** \
-\- Total available to mint : 250\
-\- Works with a character assigned to it. The character becomes a Whoremonger\
-\- The Brothel produce stats bonuses for treasure hunts \
-\- The Whoremonger needs Bottles of Rum to have the skills to produce bonuses. 10 Bottles of Rum = 1 use\
-\- Bonuses are automatically added to the character that comes to get some. This Bonus works for 20 hunts\
-\- To get some bonuses go to The Seas -> Visit Brothels (from your own brothel or others)\
-\- The Whoremonger gets EXP each time the brothel is used\
-\- The Whoremonger dies and needs to be replaced after a certain number of used (described below)\
-\- Owners can ask a premium for others to use his Brothel and can also turn it on a public or private use mode. To manage your forge go to Town -> Brothel\
-\- Bonuses are not guaranteed and can instead give you a "gonorrhoea"\
-\- Brothel owners gets rewarded each time someone use it\
+***
+
+#### Brothel Overview
+
+**In Brief:**
+
+* **Total Availability:** 250 units available for minting.
+* **Functionality:** Works with a character assigned as a Whoremonger to produce stat bonuses for treasure hunts.
+* **Resource Requirement:** Requires Bottles of Rum for operations (10 Bottles of Rum = 1 use).
+* **Bonus Acquisition:** Go to The Seas -> Visit Brothels (use your own brothel or others') to receive bonuses.
+* **Bonus Duration:** Bonuses are effective for 20 hunts.
+* **Whoremonger Experience:** The Whoremonger gains EXP with each use of the brothel.
+* **Whoremonger Lifecycle:** Expires after a set number of uses.
+* **Usage Fee:** Owners can set a premium for others to use their Brothel.
+* **Brothel Accessibility:** Owners can toggle between public or private access via Town -> Brothel.
+* **Owner Rewards:** Owners are compensated each time their Brothel is used.
+* **Potential Risk:** Bonuses can potentially lead to receiving a debuff called "gonorrhoea."
+
+**Detailed Guide:**
+
+**Operational Mechanics:**
+
+* **Character Requirement:** A character must be staked in the Brothel to become a Whoremonger.
+* **Bonuses and Debuffs:**
+  * **Stat Bonuses:** When a character visits the Brothel, they receive a stat bonus applicable for 20 hunts. Bonuses are based on the Whoremonger’s EXP, adding a strategic layer to bonus management.
+  * **Debuff Risk:** Visiting the Brothel may result in contracting "gonorrhoea," which nullifies any recently obtained bonus and applies additional negative effects.
+
+**Leveling Up Whoremonger:**
+
+* **Experience Gains:** Each brothel use provides EXP to the Whoremonger based on the rarity of the bonus requested: +3XP for common, +24XP for rare, or +72XP for legendary.
+* **Max Level and Retirement:** Upon reaching the maximum level of 100, the Whoremonger can provide 100 more bonuses before expiring. A new character will then be required to continue operations.
+
+**Financial Aspects:**
+
+* **Fees:** Similar to the Forge, obtaining bonuses from the Brothel incurs a fee in rETH. The distribution is 80% to the building owner and 20% to the protocol.
+* **Premium Fee:** Owners can charge an additional amount in FLAG for using their Brothel, influencing the economic interactions within the game.
+
+**Management Settings:**
+
+* **Public/Private Mode:** Owners can decide whether to make their Brothel publicly accessible to all players or private for their exclusive use.
+
+**Note:** The Brothel adds a unique element of risk and reward to the game, influencing player strategies and interactions. The feature is designed to provide a dynamic and engaging player experience, with adjustments possible to ensure balanced and enjoyable gameplay.\
 \
-**In details :** \
-No Pirate’s life without a brothel ! This building can give you a stats bonus for hunts. To make it work, the owner must have a character staked inside and the character must have his Bottle of Rum. 10 Bottle of Rum = 1 use. The bonus you can get is available for 20 hunts but be careful, you must use the 20 before coming back to get more. However, it is possible to squash them if the bonus don't suit you to get new ones.   Each Brothel use gives EXP to the whoremonger, that level up his skills. \
-\
-The max level is 100. Once reached, the whoremonger can give 100 more bonuses then dies (burn). A new character will be needed or no gears can be crafted.   Bonus (buff) : if the whoremonger is at 139 EXP = bonus of 139 stats.  The bonus rarity only work for specific hunts (rare bonus asked can only be used for rare hunt etc.)  Debuff : visiting a brothel can also make the bonus obtained inactive, the girls of the brothel leaving you a small gift when you leave, its name: "gonorrhoea". If you get it, on top of being a dirty mfer, you will also lose the bonus effect you freshly obtained.   \
-\
-To get the bonus there is a fee to pay in rETH as for the Forge with the same conditions 80% owner 20% protocol.  Each time the brothel is visited, the whoremonger gains EXP according to the rarity requested (common +3XP, rare +24XP, legendary +72XP). The higher the whoremonger EXP is, the more the “Filles de joies” inside give a good bonus.   The premium is an amount in FLAG that the building’s owner can add to his building for the users who would come to use it.  \
-\
-Public/Private mode : In Public, everyone can use the building, in Private, only the owner can use it. \
-\
-The bonuses stats / bonuses _\[formula will soon be shared once definitive]_

@@ -4,62 +4,54 @@ description: 'Please Note: Details are subject to adjustments following balance 
 
 # PVP mode
 
-**Chapter II - Pirate's Rampage**
+***
 
-In the PvP (Player versus Player) mode, players immerse themselves in exhilarating naval battles, vying for treasures and renown on the expansive waters. Each voyage spans some days, and to take part, players need to fulfill particular prerequisites:
+#### Chapter II - Pirate's Rampage
 
-* Own a ship outfitted with a Captain: A player at level 100, completely equipped with legendary gear.
-* Hold bottles of rum: These are vital for enhancing a character's performance during battles.
+**PvP Mode: High-Seas Adventures** In the Player versus Player (PvP) mode, players embark on strategic naval battles across expansive waters, engaging in exhilarating voyages to claim treasures and renown. Each Odyssey tests players' management of resources, battle skills, and strategic acumen.
 
-**Battle Mechanics - The Odyssey**
+**Launching an Odyssey** Players must assemble a formidable crew led by a Level 100 character equipped with legendary gear. To embark, players also need a sufficient stock of rum and a ship with the required durability:
 
-Time to sail! Once an Odyssey is launched, players can either be attacked by other ships or initiate attacks on other players' ships present in the same Odyssey. Each battle consists of three stages: sailing, charisma, and boarding.
+* **Common Odyssey:** 10 durability points
+* **Rare Odyssey:** 20 durability points
+* **Legendary Odyssey:** 30 durability points
 
-1. **Sailing Battle**: In this stage, the ships engage in a battle based on their "sailing" statistics. The attacker rolls dice, aiming to exceed half of the defender's sailing value. The attacker's dice have a range from zero to the total sailing value of the attacker.
-2. **Charisma Battle**: Similar to the sailing battle, the charisma battle involves rolling dice to exceed half of the defender's charisma value, with a dice range from zero to the total charisma value of the attacker.
-3. **Boarding Battle**: The final stage, boarding, determines the outcome of close combat. As with the previous stages, the attacker rolls dice within the range of zero to their total boarding value, trying to exceed half of the defender's boarding value.
+The cost of launching includes bottles of rum and a fee in rETH.
 
-**Victorious Outcome**
+**Mission Timers** After each attack, both the defender and the attacker have 24 hours to spend their mission points before they can be attacked again. If their mission points drop to zero before the timer expires, the ship becomes vulnerable to attacks immediately. This timer applies universally across all Odyssey types.
 
-The player who wins the majority of the battle stages emerges victorious and gains the spoils of war. They steal a portion of the cargo from the defeated player's ship. However, if a player's cargo is completely emptied during the Odyssey, their journey ends, and they receive no rewards.
+**Types of Odysseys**
 
-On the other hand, if a player's ship survives the battles, they earn a "Chest" reward containing an amount equal to their remaining cargo. Additionally, they receive a bonus based on the number of battles they experienced during the voyage, further enhancing their overall standing in the game.
+1. **Seafarer's Run (Common Odyssey)**
+   * **Durability:** 10 points
+   * **Starting Cargo:** 5000 bottles of rum
+   * **Stake per Attack:** 100 cargo points
+   * **Reward:** Common Chests
+2. **Plunderer's Quest (Rare Odyssey)**
+   * **Durability:** 20 points
+   * **Starting Cargo:** 10,000 bottles of rum
+   * **Stake per Attack:** 100 cargo points
+   * **Reward:** Rare Chests
+3. **Siren's Call (Legendary Odyssey)**
+   * **Durability:** 30 points
+   * **Starting Cargo:** 25,000 bottles of rum
+   * **Stake per Attack:** 100 cargo points
+   * **Reward:** Legendary Chests
+   * **Note:** If the cargo reaches zero, the ship will be destroyed.
 
-### PvP Mode: High-Seas Adventures
+**Odyssey Phases**
 
-In the exciting Player versus Player (PvP) mode, players set sail on thrilling voyages to engage in intense naval battles and claim victory over rival ships. There are three distinct voyage types, each offering unique challenges and rewards:
+1. **Attack Phase**
+   * **Interception:** The attacker attempts to intercept the defender by rolling dice twice, aiming to beat half of the defender's sailing stats with each roll. If the defender wins both rolls, their ship escapes, earning 3 mission points, while the attacker gains 1 mission point.
+   * **Boarding:** The attacker then tries to board the defender's ship. This involves two dice rolls between the attacker's max boarding value and half the defender's charisma, plus a final roll between the attacker's max charisma and half the defender's boarding value. The winner of two out of three rolls claims victory in the battle.
+2. **Negoce Spoils:** The victor negotiates the spoils with the vanquished:
+   * If the victor wins the dice roll (mid charisma of both parties), they seize 100 cargo points plus 20% of the total cargo of the defeated.
+   * If the victor loses the negotiation, they take 100 cargo points plus 10% of the total cargo.
 
-#### 1. Seafarer's Run (Common Odyssey)
+**Durability and Usure** Every attack reduces the durability of both the attacker's and defender's ships by one point. An Odyssey ends when a ship's durability or cargo reaches zero. Successful dice rolls in sailing, boarding, or charisma decrease the related stat by 5% due to wear and tear.
 
-* **Duration**: 10 days.
-* **Defeat Protection**: 12 hours.
-* **Starting Cargo**: 5000 bottles of rum.
-* **Stake per Attack**: 100 cargo point.
-* **Reward :** Common Chests
+**Missions** Players can attempt missions using mission points to gain stat bonuses, with a 50% base difficulty, influenced by the captain’s role and the type of ship.
 
-#### 2. Plunderer's Quest (Rare Odyssey)
+**Rewards and Conclusion** Upon exiting an Odyssey, players receive rewards based on their remaining cargo, in the form of Chests—unless the cargo is depleted. The PvP mode offers a blend of strategy, risk, and reward, urging players to plan their attacks and use their resources wisely.
 
-* **Duration**: 15 days.
-* **Defeat Protection**: 12 hours.
-* **Starting Cargo**: 10000 bottles of rum.
-* **Stake per Attack**: 100 cargo point.
-* **Reward :** Rare Chests
-
-#### 3. Siren's Call (Legendary Odyssey)
-
-* **Duration**: 20 days.
-* **Defeat Protection**: 12 hours.
-* **Starting Cargo**: 25000 bottles of rum.
-* **Stake per Attack**: 100 cargo point.
-* **Reward :** Legendary Chests
-* **Note**: In the Siren's Call, if the cargo reaches zero, the ship will be destroyed.
-
-During these daring Odysseys, players must assemble a formidable crew, led by a Level 100 character equipped with legendary gears, and stockpile enough bottles of rum to endure the treacherous sea battles that await. The higher the stakes, the greater the rewards, but the risks are equally high, as defeat may result in the loss of valuable cargo and resources.
-
-Players must carefully strategize their attacks, making use of their ship's unique bonuses and crew's skills to outmaneuver opponents and seize their cargoes. Successful battles can lead to tremendous spoils, and those who emerge victorious will be rewarded with riches, fame, and the respect of their fellow pirates.
-
-#### Conclusion
-
-The PvP mode in our game provides an exhilarating and competitive experience for players as they navigate the treacherous waters of the gaming world. The battles are strategic and engaging, allowing players to test their skills and emerge as legendary pirates. With the rewards obtained from successful Odysseys, players can improve their ships, enhance their characters, and embark on even more challenging and rewarding adventures.
-
-Join us now and become a fearless pirate, navigating your ship to triumph in thrilling PvP battles! The vast seas await your conquest!
+Join the adventure now and navigate your way to glory on the high seas!

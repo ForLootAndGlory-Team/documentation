@@ -11,8 +11,7 @@ description: >-
 **In brief :** \
 \- total supply : 10.000\
 \- Free mint\
-\- Allows to mint 1 ticket per month\
-\- 1 ticket allows you to mint 3 ingame characters\
+\- Allows to mint 3 ticket per month\
 \- To mint a ticket go to Enrollment -> Recruiters\
 \
 **In details :** \

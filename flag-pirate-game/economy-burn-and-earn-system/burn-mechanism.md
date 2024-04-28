@@ -13,9 +13,3 @@
 **COINS :** The Coins are burned to obtain gears. It will be necessary also for the end-game and the PVP Chapter II\
 \
 **TICKETS :** Limited by a cooldown and by the total supply of the NFT collection. Balance is made with the death of the characters via the end-game and other mechanism mentioned above.\
-\
-**CHAPTER II :** Some burn applies here too but will be explained once this part of the game is live.\
-\
-
-
-## ECONOMY

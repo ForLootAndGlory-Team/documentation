@@ -4,23 +4,40 @@ description: Your 3 next favorite mfers
 
 # Tickets & Characters
 
-### THE TICKETS
-
 <figure><img src="../../.gitbook/assets/ticket.png" alt=""><figcaption></figcaption></figure>
 
-\
+***
 
+#### Ticketing System Overview
 
-**In brief :** \
-\- 1 NFT pirate = 3 tickets (one of each)\
-\- One ticket = 1 character's mint\
-\- You can mint characters in -> Enrollment -> Enroll Crew\
-\- Can be sold or bought within the marketplace
+**In Brief:**
 
+* **Allocation:** 1 NFT pirate grants 3 tickets, one for each character class (Smuggler, Corsair, Pirate).
+* **Usage:** Each ticket allows for one character's mint.
+* **Minting Location:** Characters can be minted via -> Enrollment -> Enroll Crew.
+* **Marketplace Interaction:** Tickets can be sold or purchased within the marketplace.
 
+**Detailed Guide:**
 
-**In details :** \
-Obtained by owning an NFT pirate. These tickets can be used to mint the game's characters. Every NFT pirate gives you 1 ticket for each character (Smuggler, Corsair, Pirate). There is a cooldown each time you mint your tickets.&#x20;
+**Ticket Acquisition:**
+
+* Tickets are obtained by owning an NFT pirate. Each NFT pirate entitles the owner to one ticket per character class, facilitating the minting of Smuggler, Corsair, and Pirate characters.
+
+**Minting Process:**
+
+* **Cooldown:** After using a ticket to mint a character, there is a cooldown period before the same type of ticket can be used again. This mechanism ensures a balanced gameplay and prevents rapid, unchecked minting of characters.
+
+**Marketplace Dynamics:**
+
+* Tickets not only serve as a minting mechanism but also as tradable assets within the game’s marketplace. Players can buy or sell tickets, providing flexibility and a dynamic economic interaction among participants.
+
+**Usage Instructions:**
+
+* To mint a new character, navigate to Enrollment -> Enroll Crew in the game interface.
+* Select the appropriate ticket corresponding to the character class you wish to mint.
+* Follow the prompts to complete the minting process, after which the cooldown for that ticket type will commence.
+
+**Note:** The ticketing system is designed to enhance the game’s strategic elements by regulating how frequently characters can be introduced into the game environment, thus maintaining a balanced and engaging experience for all players.
 
 
 
@@ -28,37 +45,55 @@ Obtained by owning an NFT pirate. These tickets can be used to mint the game's c
 
 <figure><img src="../../.gitbook/assets/all 3 characters.png" alt=""><figcaption></figcaption></figure>
 
-\
-\
+***
 
+#### Character Management Overview
 
-**In brief:**
+**In Brief:**
 
-* Unlimited supply with a burn mechanism and a mint cooldown.
-* Your characters are in -> Crew
-* You can mint characters in -> Enrollment -> Enroll Crew
-* Level them up to rare (level 30).
-* Level them up to legendary (level 70).
-* Provide them with drinks (Bottles of Rum obtained from $BARRELS) to enable certain actions.
-* Send them on treasure hunts for EXP and coins.
-* Equip them with gear from the Forge to enhance their stats and EXP.
-* Apply bonuses for the hunt using the Brothel.
-* Assign them to a building (careers).
-* The character with the highest stats is always displayed at the top of your inventory.
-* Delegation is available to minimize the need for repeated clicking or to rent it out.
+* **Supply Mechanism:** Unlimited supply with a burn mechanism and a mint cooldown.
+* **Character Interaction:** Manage characters via -> Crew
+* **Minting New Characters:** Go to -> Enrollment -> Enroll Crew
+* **Character Progression:** Level up characters to rare (level 30) and legendary (level 70).
+* **Resource Requirement:** Provide characters with Bottles of Rum from $BARRELS for certain actions.
+* **Activity Engagement:** Send characters on treasure hunts for EXP and coins.
+* **Stat Enhancement:** Equip characters with gear from the Forge to boost stats and EXP.
+* **Bonus Application:** Utilize the Brothel to apply bonuses for treasure hunts.
+* **Career Assignment:** Assign characters to specific buildings for careers.
+* **Inventory Management:** The character with the highest stats is displayed at the top.
+* **Delegation Feature:** Available for reducing repetitive interactions or for renting out characters.
 
+**Detailed Guide:**
 
+**ERC721 Characters:**
 
-**In details :** \
-ERC721. These are your Pirates. You can mint them using the tickets provided by your PIRATE NFT once per 3 months.&#x20;
+* Your Pirates are ERC721 tokens.
+* **Minting Frequency:** Characters can be minted using tickets from your PIRATE NFT once every three months.
 
-There are three types of characters: the Smuggler (1), the Corsair (2), and the Pirate (3). These classes will gain significance later in Chapter II but won't hold much importance during Chapter I.
+**Character Classes:**
 
-All characters start without gear and at level zero, featuring randomly generated stats for boarding, charisma, and navigation using Chainlink. Gears consist of items like Head, chest, main hand, leg, feet. These gear stats contribute to the character's overall attributes and can be obtained in the Forge building in exchange for Coins. Further details about this can be found in the Forge description.
+* **Smuggler (1), Corsair (2), Pirate (3):** These classes gain importance in Chapter II and are foundational in Chapter I.
 
-Characters serve a purpose in treasure hunts to acquire Coins and EXP. Experience points are essential for leveling up characters, and their significance will persist throughout all chapters of the game. For more information, refer to the Hunt description. In later stages, EXP will also be relevant for PvP (Chapter II).
+**Initial Character Setup:**
 
-Character's Career: Characters can be assigned to various buildings. They can become a Blacksmith in the Forge, a Whoremonger in the Brothel, and a Shipwright in the Shipyard. Once a character is assigned to a building, the decision is permanent, and they cannot be removed or change their career.\
+* **Starting Level:** All characters begin at level zero without gear.
+* **Stats Generation:** Stats for boarding, charisma, and navigation are randomly generated using Chainlink.
+* **Gear Acquisition:** Gear items such as Head, Chest, Main Hand, Legs, and Feet enhance a character’s attributes and can be obtained at the Forge in exchange for Coins.
+
+**Character Activities:**
+
+* **Treasure Hunts:** Characters participate in hunts to earn Coins and EXP, which are crucial for leveling up and will remain significant throughout the game.
+* **Career Paths:** Characters can be assigned permanently to various buildings:
+  * **Blacksmith in the Forge**
+  * **Whoremonger in the Brothel**
+  * **Shipwright in the Shipyard**
+  * **Note:** Once assigned, a character’s career decision is permanent and cannot be altered.
+
+**Additional Information:**
+
+* The gear, levels, and career choices contribute to the dynamics of the gameplay, influencing both treasure hunts and PvP engagements in later chapters.
+
+**Note:** The game system, including character interactions and progression, is designed to provide a dynamic and engaging player experience, with adjustments possible to ensure balanced and enjoyable gameplay.\
 \
 
 
