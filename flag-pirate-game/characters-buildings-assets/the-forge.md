@@ -38,7 +38,7 @@ description: >-
 
 **Blacksmith Development:**
 
-* **Experience Gains:** Each forge use provides EXP to the Blacksmith based on the rarity of the Coins used: +3XP for common, +24XP for rare, or +72XP for legendary gear crafting.
+* **Experience Gains:** Each forge use provides EXP to the Blacksmith based on the rarity of the Coins used: +4XP for common, +24XP for rare, or +72XP for legendary gear crafting.
 * **Skill Level Impact:** The higher the Blacksmith’s skill level, the better the stats of the crafted gears.
 * **Max Level and Retirement:** Upon reaching the maximum level of 100, the Blacksmith can craft an additional 100 gears before expiring. A new character will then be required to continue crafting.
 

@@ -31,7 +31,7 @@ The Shipyard is a critical facility where players can build ships and craft ship
 
 * Each operation at the Shipyard provides the Shipwright with experience (EXP), enhancing their ability to produce higher quality ships and equipment.
 * The Shipwright gains 30XP per ship constructed.
-* For equipment crafting, the EXP gained depends on the chest's rarity used: +3XP for common, +24XP for rare, or +72XP for legendary.
+* For equipment crafting, the EXP gained depends on the chest's rarity used: +4XP for common, +24XP for rare, or +72XP for legendary.
 * A Shipwright can reach a maximum level of 100, after which they can build 100 more ships or pieces of equipment before expiring. A new character must then be assigned.
 
 **Crafting Equipment:**

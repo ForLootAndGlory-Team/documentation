@@ -37,7 +37,7 @@ description: Every men needs some good company
 
 **Leveling Up Whoremonger:**
 
-* **Experience Gains:** Each brothel use provides EXP to the Whoremonger based on the rarity of the bonus requested: +3XP for common, +24XP for rare, or +72XP for legendary.
+* **Experience Gains:** Each brothel use provides EXP to the Whoremonger based on the rarity of the bonus requested: +4XP for common, +24XP for rare, or +72XP for legendary.
 * **Max Level and Retirement:** Upon reaching the maximum level of 100, the Whoremonger can provide 100 more bonuses before expiring. A new character will then be required to continue operations.
 
 **Financial Aspects:**
