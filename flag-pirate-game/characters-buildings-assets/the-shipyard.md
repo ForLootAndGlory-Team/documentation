@@ -8,7 +8,7 @@
 
 **In Brief:**
 
-* **Total Available to Mint:** \[to be determined]
+* **Total Available to Mint:** 175 units available for minting.
 * **Functionality:** Works with a character assigned as a Shipwright to produce ships and ship's equipment for PvP "Odysseys."
 * **Resource Requirement:** 10 Bottles of Rum per use.
 * **Usage:** Accessible via The Seas -> Visit Shipyard (either your own or others').

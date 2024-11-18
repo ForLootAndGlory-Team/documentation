@@ -12,7 +12,7 @@ description: Your 3 next favorite mfers
 
 **In Brief:**
 
-* **Allocation:** 1 NFT pirate grants 3 tickets, one for each character class (Smuggler, Corsair, Pirate).
+* **Allocation:** 1 NFT Recruiter grants 3 tickets, one for each character class (Smuggler, Corsair, Pirate).
 * **Usage:** Each ticket allows for one character's mint.
 * **Minting Location:** Characters can be minted via -> Enrollment -> Enroll Crew.
 * **Marketplace Interaction:** Tickets can be sold or purchased within the marketplace.
@@ -21,7 +21,7 @@ description: Your 3 next favorite mfers
 
 **Ticket Acquisition:**
 
-* Tickets are obtained by owning an NFT pirate. Each NFT pirate entitles the owner to one ticket per character class, facilitating the minting of Smuggler, Corsair, and Pirate characters.
+* Tickets are obtained by owning an NFT Recruiter. Each NFT pirate entitles the owner to one ticket per character class, facilitating the minting of Smuggler, Corsair, and Pirate characters.
 
 **Minting Process:**
 

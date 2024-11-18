@@ -25,12 +25,12 @@ The cost of launching includes bottles of rum and a fee in rETH.
 1. **Seafarer's Run (Common Odyssey)**
    * **Durability:** 10 points
    * **Starting Cargo:** 5000 bottles of rum
-   * **Stake per Attack:** 100 cargo points
+   * **Stake per Attack:** 200 cargo points
    * **Reward:** Common Chests
 2. **Plunderer's Quest (Rare Odyssey)**
    * **Durability:** 20 points
    * **Starting Cargo:** 10,000 bottles of rum
-   * **Stake per Attack:** 100 cargo points
+   * **Stake per Attack:** 200 cargo points
    * **Reward:** Rare Chests
 3. **Siren's Call (Legendary Odyssey)**
    * **Durability:** 30 points

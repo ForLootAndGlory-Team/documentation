@@ -16,7 +16,7 @@ description: >-
 
 **In Brief:**
 
-* **Total Availability:** 500 units available for minting.
+* **Total Availability:** 575 units available for minting.
 * **Functionality:** Crafts gear (main hand, leg, feet, head, chest) when a character is assigned as a Blacksmith.
 * **Resource Requirement:** Requires $rhum for Blacksmith operations (10 $rhum = 1 use).
 * **Gear Crafting:** Go to Crew -> Craft gears (using your own forge or others'). Requires Coins for crafting.

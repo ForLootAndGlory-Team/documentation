@@ -14,7 +14,7 @@ description: Every men needs some good company
 
 **In Brief:**
 
-* **Total Availability:** 250 units available for minting.
+* **Total Availability:** 290 units available for minting.
 * **Functionality:** Works with a character assigned as a Whoremonger to produce stat bonuses for treasure hunts.
 * **Resource Requirement:** Requires Bottles of Rum for operations (10 Bottles of Rum = 1 use).
 * **Bonus Acquisition:** Go to The Seas -> Visit Brothels (use your own brothel or others') to receive bonuses.

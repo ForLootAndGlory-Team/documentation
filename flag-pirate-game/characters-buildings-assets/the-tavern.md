@@ -12,7 +12,7 @@ description: Ever heard of a sober pirate ?
 
 **In Brief:**
 
-* **Total Availability:** 999 units available for minting.
+* **Total Availability:** 1150 units available for minting.
 * **Functionality:** Stakes to produce $BARRELS (ERC20), which are converted into Bottles of Rum (ERC1155).
 * **Staking Location:** Go to Town -> Tavern -> Stake button.
 * **Operation:** Does not require a character to be assigned.
@@ -33,7 +33,7 @@ description: Ever heard of a sober pirate ?
 
 **Leveling Up Tavern:**
 
-* **Cost:** To level up the tavern, it costs 0.2 rETH + 1000 $BARRELS for the first level. Each subsequent level requires an additional +20% of $BARRELS.
+* **Cost:** To level up the tavern, it costs 0.01 rETH + 1000 $BARRELS for the first level. Each subsequent level requires an additional +20% of $BARRELS.
 * **Fixed rETH Cost:** The rETH price remains the same regardless of the level.
 * **Production Bonus:** Each level increases $BARRELS production by +10%.
 

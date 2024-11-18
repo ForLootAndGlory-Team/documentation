@@ -13,7 +13,7 @@ The Shipyard and Shipwright are crucial facilities that allow players to craft s
 **2. Crafting a Ship**
 
 **Cost:**\
-Crafting a ship requires a payment in rETH.
+Crafting a ship requires a payment in rETH + $FLAG premium setup by the shipyard owner.
 
 **Distribution:**\
 80% of the crafting fee is allocated to the building owner, and the remaining 20% supports the protocol.

@@ -1,9 +1,5 @@
 # Stakers, Roles, Airdrop & Whitelist
 
-### <mark style="color:red;">WARNING :</mark> The following is the base line and could change before game deployment. We wanted to share with you what will approximatively be the stakers advantages and rewards. Some small changes could therefore occurs if needed or simply stay just like that.&#x20;
-
-
-
 Depending on your stake, you can access different chans within discord and have access to special prices and rewards as a staker. Here are all roles available. Note that the first level role was recently created to give access to the free Pirate NFT owners and super small stakers with less than 100 FLAG. The full server access always was and will be minimum 100 FLAG staked. Read carefully. \
 \
 **M E M B E R S**\
@@ -13,7 +9,7 @@ Depending on your stake, you can access different chans within discord and have 
 Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG\
-2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 compass airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Whitelisted to mint first (pre-sale) \
 Royalties\
 \
@@ -22,7 +18,7 @@ Royalties\
 Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
-2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 compass airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Whitelisted to mint first (pre-sale) \
 Royalties\
 \
@@ -32,7 +28,7 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
-2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 compass airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
 \
 **Smuggler**\
@@ -41,7 +37,7 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint)\
-2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 compass airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
 \
 **Looter**\
@@ -50,12 +46,8 @@ Bottle of rum needed ingame = reduction cost \
 Access to the mini game chan\
 1 Pirate NFT for each 100 staked FLAG \
 Whitelisted (buildings mint) \
-2 secret asset airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
+2 compass airdrops (once the common treasure hunt is live) for each 100 staked FLAG\
 Royalties\
-\
-**Landlubber**\
-Non-stakers. No access beside welcome chan\
-1 Pirate NFT if Zealy EXP required reached (TBA)\
 
 
 ## EXTRAS
@@ -74,17 +66,17 @@ Special role for those who wants to participate to our mini games. Rumble, Garti
 **Emperors of the sea** \
 Founders\
 Pre-sale access \
-No free nfts \
-No discount\
+5x extra Pirate NFTs \
+6x compass airdrops (once the common treasure hunt is live)\
 \
 **Captain Crew**\
 Mod Boss \
 Pre-sale access\
 3x extra Pirate NFTs \
-4x secret airdrops (once the common treasure hunt is live)\
+4x compass airdrops (once the common treasure hunt is live)\
 \
 **Quartermaster Crew**\
 Mods \
 Pre-sale access\
 2x extra Pirate NFTs \
-3x secret airdrops (once the common treasure hunt is live)
+3x compass airdrops (once the common treasure hunt is live)
