@@ -7,8 +7,8 @@
 **Asset Minting and Distribution:**
 
 * **Allocation of Mint Proceeds:**
-  * **91% to End-Game Chest:** Automatically allocated to an end-game reward chest, which is distributed to players/winners who reach the end-game.
-  * **9% to Team:** Reserved to cover game expenses and operational costs.
+  * **95% to End-Game Chest:** Automatically allocated to an end-game reward chest, which is distributed to players/winners who reach the end-game.
+  * **5% to Team:** Reserved to cover game expenses and operational costs.
 
 **Secret Airdrop:**
 
