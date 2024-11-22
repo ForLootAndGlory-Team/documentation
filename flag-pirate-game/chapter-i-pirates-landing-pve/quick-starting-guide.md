@@ -5,7 +5,7 @@ You want to avoid reading all the pages and start playing ? Alright mfers here i
 ## TESTNET (PVE)
 
 Within the testnet, you have full access to all assets from the game like if you own it. (tickets, characters, forge, tavern, brothel for now and later on during the full testnet also access to the PVP assets) _**Requirements :**_ \
-_- Metamask on Skale Calypso hub testnet network_\
+&#xNAN;_- Metamask on Skale Calypso hub testnet network_\
 _- sFUEL testnet token_[ ](https://www.sfuelstation.com/)[_https://www.sfuelstation.com/_](https://www.sfuelstation.com/)\
 \
 **How and where to start :**&#x20;

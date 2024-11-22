@@ -4,7 +4,7 @@
 
 \*Keep in mind some minor changes could occur before the launch.\
 \
-**Flag **_**Recruiter**_** NFT - ERC721 - Skale**\
+**Flag&#x20;**_**Recruiter**_**&#x20;NFT - ERC721 - Skale**\
 Price :  Free Mint\
 Total : 10 000 _(as it is a free mint, we will keep a good bunch to make giveaways and mini games)_\
 Mint Date : TBA - After testnet phase\
@@ -41,7 +41,7 @@ Mint Date : TBA\
 Whitelist : See [stakers-roles-airdrop-and-whitelist.md](stakers-roles-airdrop-and-whitelist.md "mention") - What will be left : FCFS \
 \
 \
-_\*Tickets and Characters are mintable by owning a Flag Recruiter NFT only._ \
+&#xNAN;_\*Tickets and Characters are mintable by owning a Flag Recruiter NFT only._ \
 \
 
 
