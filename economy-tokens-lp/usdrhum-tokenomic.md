@@ -14,8 +14,8 @@
 
 **Emission Details:**
 
-* **Daily Emission Rate:** The specific daily emission per Tavern is to be announced (TBA).
-*   **Regulation Mechanism:** The total daily emission is controlled by a halving mechanism, similar to Bitcoin’s supply regulation:
+* **Daily Emission Rate:** 20 Barrels at Launch
+*   **Regulation Mechanism:** The total daily emission is controlled by a halving mechanism:
 
     * **Halving Trigger:** A halving in production occurs each time the total circulating supply of $BARRELS exceeds 1,000,000.
     * **Cancellation of Halving:** If the circulating supply falls below 1,000,000, the halving is automatically cancelled, reverting to the previous emission rate.\
