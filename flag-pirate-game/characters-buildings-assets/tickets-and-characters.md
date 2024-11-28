@@ -51,11 +51,11 @@ description: Your 3 next favorite mfers
 
 **In Brief:**
 
-* **Supply Mechanism:** Unlimited supply with a burn mechanism and a mint cooldown.
+* **Supply Mechanism:** Unlimited supply with a burn mechanism.
 * **Character Interaction:** Manage characters via -> Crew
 * **Minting New Characters:** Go to -> Enrollment -> Enroll Crew
 * **Character Progression:** Level up characters to rare (level 30) and legendary (level 70).
-* **Resource Requirement:** Provide characters with Bottles of Rum from $BARRELS for certain actions.
+* **Resource Requirement:** Provide characters with Bottles of Rum from $BARRELS for certain actions, rETH require for minting process with a ticket.
 * **Activity Engagement:** Send characters on treasure hunts for EXP and coins.
 * **Stat Enhancement:** Equip characters with gear from the Forge to boost stats and EXP.
 * **Bonus Application:** Utilize the Brothel to apply bonuses for treasure hunts.
@@ -67,7 +67,7 @@ description: Your 3 next favorite mfers
 
 **ERC721 Characters:**
 
-* Your Pirates are ERC721 tokens.
+* Characters are ERC721 tokens.
 * **Minting:** Characters can be minted using tickets from your Recruiter NFT.
 
 **Character Classes:**
@@ -76,8 +76,8 @@ description: Your 3 next favorite mfers
 
 **Initial Character Setup:**
 
-* **Starting Level:** All characters begin at level zero without gear.
-* **Stats Generation:** Stats for boarding, charisma, and navigation are randomly generated using Chainlink.
+* **Starting Level:** All characters begin at level 1 without gear.
+* **Stats Generation:** Stats for boarding, charisma, and navigation are randomly generated using Skale RNG.
 * **Gear Acquisition:** Gear items such as Head, Chest, Main Hand, Legs, and Feet enhance a character’s attributes and can be obtained at the Forge in exchange for Coins.
 
 **Character Activities:**
