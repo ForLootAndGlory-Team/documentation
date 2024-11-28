@@ -21,11 +21,11 @@ description: Your 3 next favorite mfers
 
 **Ticket Acquisition:**
 
-* Tickets are obtained by owning an NFT Recruiter. Each NFT pirate entitles the owner to one ticket per character class, facilitating the minting of Smuggler, Corsair, and Pirate characters.
+* Tickets are obtained by owning an NFT Recruiter. Each NFT recruiter entitles the owner to one ticket per character class, facilitating the minting of Smuggler, Corsair, and Pirate characters.
 
 **Minting Process:**
 
-* **Cooldown:** After using a ticket to mint a character, there is a cooldown period before the same type of ticket can be used again. This mechanism ensures a balanced gameplay and prevents rapid, unchecked minting of characters.
+* **Cooldown:** After using a ticket to mint a character, there is a cooldown period before the another claim can be done again. This mechanism ensures a balanced gameplay and prevents rapid, unchecked minting of characters.
 
 **Marketplace Dynamics:**
 
