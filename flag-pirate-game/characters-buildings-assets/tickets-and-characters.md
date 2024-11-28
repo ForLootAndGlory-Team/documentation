@@ -68,7 +68,7 @@ description: Your 3 next favorite mfers
 **ERC721 Characters:**
 
 * Your Pirates are ERC721 tokens.
-* **Minting Frequency:** Characters can be minted using tickets from your PIRATE NFT once every three months.
+* **Minting Frequency:** Characters can be minted using tickets from your Recruiter NFT.
 
 **Character Classes:**
 
