@@ -38,5 +38,6 @@
 
 ## 🏴‍☠️ Sail with us...
 
+* [How to bridge on Skale](sail-with-us.../how-to-bridge-on-skale.md)
 * [Decentralization & Our Game](sail-with-us.../decentralization-and-our-game.md)
 * [Safety first](sail-with-us.../safety-first.md)
