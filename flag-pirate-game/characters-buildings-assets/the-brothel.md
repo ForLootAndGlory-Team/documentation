@@ -42,8 +42,8 @@ description: Every men needs some good company
 
 **Financial Aspects:**
 
-* **Fees:** Similar to the Forge, obtaining bonuses from the Brothel incurs a fee in rETH. The distribution is 80% to the building owner and 20% to the protocol.
-* **Premium Fee:** Owners can charge an additional amount in FLAG for using their Brothel, influencing the economic interactions within the game.
+* **Operational Cost:** Using the Brothel requires rETH.
+* **Premium Fees:** Owners can charge an additional amount in FLAG for using their Brothel, influencing the economic interactions within the game. 90% of the premium fee in FLAG goes to the building owner, while 10% fill the Royalty Reserve.
 
 **Management Settings:**
 

@@ -24,7 +24,7 @@ description: >-
 * **Marketplace Interaction:** Gears can be used, bought, or sold in the marketplace.
 * **Blacksmith Experience:** The Blacksmith gains EXP with each forge use.
 * **Blacksmith Lifecycle:** The Blacksmith expires after crafting a set number of gears.
-* **Usage Fee:** Owners may set a premium for others to use their Forge.
+* **Usage Fee:** Owners may set a FLAG premium for others to use their Forge.
 * **Forge Accessibility:** Owners can toggle between public or private access via Town -> Forge.
 * **Owner Rewards:** Forge owners receive rewards each time their Forge is used.
 
@@ -34,7 +34,7 @@ description: >-
 
 * **Character Requirement:** A character must be staked in the Forge to become a Blacksmith.
 * **Operational Cost:** Crafting gear requires a combination of rETH and Coins. The cost includes a fee in rETH + 1000 Coins which may vary based on the current market conditions.
-* **Revenue Distribution:** 80% of the crafting fee goes to the building owner, while 20% supports the protocol.
+* **Revenue Distribution:** Owners can charge an additional amount in FLAG for using their Forge, influencing the economic interactions within the game. 90% of the premium fee in FLAG goes to the building owner, while 10% fill the Royalty Reserve.
 
 **Blacksmith Development:**
 
@@ -50,7 +50,8 @@ description: >-
 **Forge Management:**
 
 * **Public/Private Mode:** Owners can set their Forge to be publicly accessible to all players or private for their use only.
-* **Premium Fee:** Owners can charge an additional amount in FLAG for using their Forge, enhancing the economic dynamics of the game.
+
+
 
 **Note:** The Forge is a critical component of the game, providing essential equipment for character development and strategic gameplay. This system is designed to engage players in the economic and tactical aspects of the game, ensuring a rich and interactive experience.
 
