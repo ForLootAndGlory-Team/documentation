@@ -25,7 +25,6 @@
   * Inadequate liquidity solutions for token pools.
   * Risk of centralization and off-chain security vulnerabilities.
   * Insufficient competitive elements that allow equal grind for all players.
-  * Mismanagement of funds from initial funding rounds (IDOs/ICOs).
   * Reliance on untested or centralized blockchains with high transaction fees and no fallback plans.
 
 **Objectives and Player Benefits:**
@@ -46,7 +45,7 @@
 6. **Having everything on-chain, with the front-end (website) mirrored on Arweave, ensuring the game remains playable regardless of circumstances. ENS domain. We consider the project to be 100% decentralized once keys (smart contracts) are thrown away.**
 7. **Eliminating off-chain tokens and adopting a similar approach for the website.**
 8. **Reserving substantial rewards, the treasure chest (end-game), for dedicated players. Others can also profit with their assets by selling them, spending some time and fees in-game.**
-9. **We don't receive any revenue from the PVE buildings, pirate NFTs, or PVP building mints, except for a recently introduced "secret" asset. This asset serves as an optional and non-essential game bonus, available for less than 10 Matic. Additionally, there will be no token sales. Our potential earnings will constitute a small percentage of the gas fees utilized by players and NFT royalties. That's the extent of it. All remaining proceeds will directly flow into the treasure chests for players to win or be distributed to building owners (further details provided in the documentation). For the $FLAG tokens, please head to the** [**$FLAG Tokenomic page.**](economy-tokens-lp/usdflag-tokenomic.md)&#x20;
+9. **We don't receive any revenue from the PVE buildings, pirate NFTs, or PVP building mints, except for a recently introduced Compass asset. This asset serves as an optional and non-essential game bonus, available for less than 9$. Additionally, there will be no token sales. Our potential earnings will constitute a small percentage of the gas fees utilized by players and NFT royalties. That's the extent of it. All remaining proceeds will directly flow into the treasure chests for players to win or be distributed to building owners (further details provided in the documentation). For the $FLAG tokens, please head to the** [**$FLAG Tokenomic page.**](economy-tokens-lp/usdflag-tokenomic.md)&#x20;
 10. **Using Skale, a well-designed for gaming , Gas free Zk Rollup, RNG by default and free that is considered safe.**
 
 We believe we have resolved the issues observed in other projects and are confident that our game will stand out. Welcome to our Pirate's lair!\
