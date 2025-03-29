@@ -29,8 +29,8 @@
 * **EXP Requirements:** Characters must reach certain levels to participate in higher-tier hunts: Level 30 for rare and Level 70 for legendary hunts.
 * **Rarity Levels:**
   * **Common Hunt:** Costs 25 BEP, grants +12 EXP.
-  * **Rare Hunt:** Costs 250 Bottles of Rum, grants +50 EXP.
-  * **Legendary Hunt:** Costs 500 Bottles of Rum, grants +200 EXP.
+  * **Rare Hunt:** Costs 250 BEP, grants +50 EXP.
+  * **Legendary Hunt:** Costs 500 BEP, grants +200 EXP.
 * **Failure Consequences:** Losing a hunt results in no EXP gain and no Coins. There is also a risk of character burn for legendary hunts.
 
 **Coin Utility:**

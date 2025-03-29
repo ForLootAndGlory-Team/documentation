@@ -55,7 +55,7 @@ description: Your 3 next favorite mfers
 * **Character Interaction:** Manage characters via -> Crew
 * **Minting New Characters:** Go to -> Enrollment -> Enroll Crew
 * **Character Progression:** Level up characters to rare (level 30) and legendary (level 70).
-* **Resource Requirement:** Provide characters with Bottles of Rum from $BARRELS for certain actions, rETH require for minting process with a ticket.
+* **Resource Requirement:** Provide characters with Boozy Energy Point "BEP" , cost 10 Bottles of Rum, for certain actions, rETH require for minting process with a ticket.
 * **Activity Engagement:** Send characters on treasure hunts for EXP and coins.
 * **Stat Enhancement:** Equip characters with gear from the Forge to boost stats and EXP.
 * **Bonus Application:** Utilize the Brothel to apply bonuses for treasure hunts.
