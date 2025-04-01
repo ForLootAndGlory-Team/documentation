@@ -18,7 +18,7 @@ description: >-
 
 * **Total Availability:** 575 units available for minting.
 * **Functionality:** Crafts gear (main hand, leg, feet, head, chest) when a character is assigned as a Blacksmith.
-* **Resource Requirement:** Requires $rhum for Blacksmith operations (10 $rhum = 1 use).
+* **Resource Requirement:** Each usage need BEP ( 1 BEP = 10 Bottles of Rum).
 * **Gear Crafting:** Go to Crew -> Craft gears (using your own forge or others'). Requires Coins for crafting.
 * **Equipping Gear:** To equip a crafted gear, navigate to Crew -> Inventory -> Equip gear.
 * **Marketplace Interaction:** Gears can be used, bought, or sold in the marketplace.
@@ -41,6 +41,7 @@ description: >-
 * **Experience Gains:** Each forge use provides EXP to the Blacksmith based on the rarity of the Coins used: +4XP for common, +24XP for rare, or +72XP for legendary gear crafting.
 * **Skill Level Impact:** The higher the Blacksmith’s skill level, the better the stats of the crafted gears.
 * **Max Level and Retirement:** Upon reaching the maximum level of 100, the Blacksmith can craft an additional 100 gears before expiring. A new character will then be required to continue crafting.
+* **Cost BEP:** Craft a common gear cost 1 BEP , rare gear cost 3 BEP, legendary gear cost 5 BEP
 
 **Gear Statistics:**
 

@@ -16,7 +16,7 @@ description: Every men needs some good company
 
 * **Total Availability:** 290 units available for minting.
 * **Functionality:** Works with a character assigned as a Whoremonger to produce stat bonuses for treasure hunts.
-* **Resource Requirement:** Requires Bottles of Rum for operations (10 Bottles of Rum = 1 use).
+* **Resource Requirement:** Each usage need BEP ( 1 BEP = 10 Bottles of Rum).
 * **Bonus Acquisition:** Go to The Seas -> Visit Brothels (use your own brothel or others') to receive bonuses.
 * **Bonus Duration:** Bonuses are effective for 20 hunts.
 * **Whoremonger Experience:** The Whoremonger gains EXP with each use of the brothel.
@@ -31,6 +31,7 @@ description: Every men needs some good company
 **Operational Mechanics:**
 
 * **Character Requirement:** A character must be staked in the Brothel to become a Whoremonger.
+* **Cost BEP:** Get a common bonus cost 1 BEP , rare bonus cost 3 BEP, legendary bonus cost 5 BEP
 * **Bonuses and Debuffs:**
   * **Stat Bonuses:** When a character visits the Brothel, they receive a stat bonus applicable for 20 hunts. Bonuses are based on the Whoremonger’s EXP, adding a strategic layer to bonus management.
   * **Debuff Risk:** Visiting the Brothel may result in contracting "gonorrhoea," which nullifies any recently obtained bonus and applies additional negative effects.

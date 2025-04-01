@@ -12,7 +12,7 @@
 * **Gear Crafting:** Use Coins to craft gears within the Forge.
 * **Boosting Chances:** Bonuses from the Brothel enhance success rates for acquiring more Coins.
 * **Access Path:** Access hunts by clicking Journey -> Treasure Hunt.
-* **Resource Requirement:** Hunts require "drinks" (Bottles of Rum) for participation.
+* **Resource Requirement:** Hunts require BEP, energy point loaded in your character using "drinks" (Bottles of Rum) for participation 1 BEP = 10 Bottles of Rum.
 * **Rum Costs:** 10 Bottles of Rum for a common hunt, 250 for a rare hunt, 5000 for a legendary hunt.
 * **PvP Relevance:** Essential for gearing up for PvP challenges.
 * **Marketplace Interaction:** Bottles of Rum can be bought and sold on the marketplace (ERC1155).
@@ -28,8 +28,8 @@
 
 * **EXP Requirements:** Characters must reach certain levels to participate in higher-tier hunts: Level 30 for rare and Level 70 for legendary hunts.
 * **Rarity Levels:**
-  * **Common Hunt:** Costs 25 BEP, grants +12 EXP.
-  * **Rare Hunt:** Costs 250 BEP, grants +50 EXP.
+  * **Common Hunt:** Costs 5 BEP, grants +2,4 EXP.
+  * **Rare Hunt:** Costs 100 BEP, grants +10 EXP.
   * **Legendary Hunt:** Costs 500 BEP, grants +200 EXP.
 * **Failure Consequences:** Losing a hunt results in no EXP gain and no Coins. There is also a risk of character burn for legendary hunts.
 

@@ -10,7 +10,7 @@
 
 * **Total Available to Mint:** 175 units available for minting.
 * **Functionality:** Works with a character assigned as a Shipwright to produce ships and ship's equipment for PvP "Odysseys."
-* **Resource Requirement:** 10 Bottles of Rum per use.
+* **Resource Requirement:** Each usage need BEP ( 1 BEP = 10 Bottles of Rum).
 * **Usage:** Accessible via The Seas -> Visit Shipyard (either your own or others').
 * **Shipwright Experience:** Gains EXP with each use.
 * **Shipwright Lifecycle:** Expires after a certain number of uses.
@@ -25,7 +25,7 @@ The Shipyard is a critical facility where players can build ships and craft ship
 **Character and Resource Management:**
 
 * A character must be staked in the Shipyard to become a Shipwright.
-* Shipwrights require Bottles of Rum to produce ships or equipment, with each use consuming 10 Bottles of Rum.
+* **Cost BEP:** Craft a common stuff cost 1 BEP , rare stuff cost 3 BEP, legendary stuff cost 5 BEP, craft a ship cost 10 BEP
 
 **Experience and Longevity:**
 
