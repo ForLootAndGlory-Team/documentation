@@ -12,8 +12,7 @@
 * **Gear Crafting:** Use Coins to craft gears within the Forge.
 * **Boosting Chances:** Bonuses from the Brothel enhance success rates for acquiring more Coins.
 * **Access Path:** Access hunts by clicking Journey -> Treasure Hunt.
-* **Resource Requirement:** Hunts require BEP, energy point loaded in your character using "drinks" (Bottles of Rum) for participation 1 BEP = 10 Bottles of Rum.
-* **Rum Costs:** 10 Bottles of Rum for a common hunt, 250 for a rare hunt, 5000 for a legendary hunt.
+* **Resource Requirement:** Hunts require Boozy Energy Point ( 1 BEP = 10 Bottles of Rum),  loaded in your character using "drinks".
 * **PvP Relevance:** Essential for gearing up for PvP challenges.
 * **Marketplace Interaction:** Bottles of Rum can be bought and sold on the marketplace (ERC1155).
 

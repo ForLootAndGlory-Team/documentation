@@ -10,7 +10,7 @@
 
 * **Total Available to Mint:** 175 units available for minting.
 * **Functionality:** Works with a character assigned as a Shipwright to produce ships and ship's equipment for PvP "Odysseys."
-* **Resource Requirement:** Each usage need BEP ( 1 BEP = 10 Bottles of Rum).
+* **Resource Requirement:** Each usage need Boozy Energy Point ( 1 BEP = 10 Bottles of Rum).
 * **Usage:** Accessible via The Seas -> Visit Shipyard (either your own or others').
 * **Shipwright Experience:** Gains EXP with each use.
 * **Shipwright Lifecycle:** Expires after a certain number of uses.
